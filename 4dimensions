@@ -1,0 +1,474 @@
+The SPELLCASTING CLASSES are lousy with a weapon, since 
+they need to concentrate and have both hands free to cast their 
+spells. If they are bare handed, they have a default magic attack, 
+which depending on their level, tier, and also some skills or 
+equipment can become faster and more powerful.
+They also use ORBS and STAVES to enhance their magic. 
+The skill MANIFEST creates an ORB from an existing weapon. 
+A Staff, which is more powerful, has to be created by the 
+skill WOODSING  but not by the mages themselves.
+Mage/Priest/Esper classes will like +int +cha +hp items.
+
+--
+
+
+----------------------------------------------------------------------
+================================================================================
+ Website: http://4dimensions.org
+ MUD: 4dimensions.org  Port 6000
+
+Email:
+Molly    - molly.4d@swipnet.se
+Mordecai - mordecai@xtra.co.nz
+Sonya    - cinnaprism@yahoo.com
+
+Votes: VOTE FOR US ON OUR WEBSITE by clicking the VOTE buttons!
+
+What's New? Find out at: http://4dadmin.blogspot.com
+================================================================================
+This is a Time Travel MUD, with over 140 all original zones (70000+ rooms)
+and over 100 built-in Quests in the zones. We also have a customized MUD
+School with a unique Quest Academy, where you can learn some good tricks.
+If you are new to the game type HELP NEW; if you are new to mudding altogether
+type HELP HELP or HELP <TOPIC>. If you notice any BUGs or TYPOs, please report
+them using the command BUG <MESSAGE> and TYPO <MESSAGE>.
+================================================================================
+                           ***Naming Policy***
+Choosing a name is an important part of your experience here. We have four
+different dimensions, so the ranges for names is very broad. However, there
+are some rules to choosing a name. Names of mobs, profanity, racial, religious,
+and sexual slurs are not acceptable. Names like Asdfjkl, Hotbeef, Scottyiscool,
+Dodgetheduck, etc., are not acceptable. Please choose wisely or you will be
+told to change your name.
+================================================================================
+DISCLAIMER: Some of the zones in this mud contain certain things that can
+be described as 'adult', and the language on the open channels is sometimes a
+bit free too. So if you are very young, very sensitive or very prudish; maybe
+you should find yourself another mud to play? :-)
+================================================================================
+
+However; don't use this disclaimer as an excuse to act like a moron on 
+open channels. We expect our players to be mature enough to handle the
+freedom we give them.
+
+--
+
+Remember that as a magic capable class, you don't need to wield
+any weapon, your own raw magic with an orb or staff is enough in any battle.
+
+--
+
+help welcome
+----------------------------------------------------------------------------
+WELCOME NEWPLAYER
+----------------------------------------------------------------------------
+Welcome to 4Dimensions!  
+*
+Type HELP for an index of different help files.
+*
+If you have any questions or simply want to say HI, type NEWBIE <message>. 
+For example: Newbie Hello, I need some help, please!
+See HELP NEWBIE for more information.
+*
+You are wearing a tabard, which has many uses.
+Type LOOK TABARD to see instructions on how to use it.
+*
+You have been enrolled in the Seeker's Guild.
+This is the starter clan for new players. 
+*
+To talk to your clan, type CTELL <followed by your question or comment>.
+For example: ctell Could all ya'll fellow clannies help me?
+*
+Type WHO to get a list of players currently in game.
+Players with a (Helper) flag next to their name are here to help you. 
+If you wish to ask a Helper something privately, 
+simply type TELL <player name> <your question>.
+For example: Tell Loria Please help me miss lady.
+*
+See also: INTRO, MOVEMENT, COMMUNICATION, WHATNOW, CLANS
+
+--
+
+help welcome
+----------------------------------------------------------------------------
+WELCOME NEWPLAYER
+----------------------------------------------------------------------------
+Welcome to 4Dimensions!  
+*
+Type HELP for an index of different help files.
+*
+If you have any questions or simply want to say HI, type NEWBIE <message>. 
+For example: Newbie Hello, I need some help, please!
+See HELP NEWBIE for more information.
+*
+You are wearing a tabard, which has many uses.
+Type LOOK TABARD to see instructions on how to use it.
+*
+You have been enrolled in the Seeker's Guild.
+This is the starter clan for new players. 
+*
+To talk to your clan, type CTELL <followed by your question or comment>.
+For example: ctell Could all ya'll fellow clannies help me?
+*
+Type WHO to get a list of players currently in game.
+Players with a (Helper) flag next to their name are here to help you. 
+If you wish to ask a Helper something privately, 
+simply type TELL <player name> <your question>.
+For example: Tell Loria Please help me miss lady.
+*
+See also: INTRO, MOVEMENT, COMMUNICATION, WHATNOW, CLANS
+
+--
+
+Lionel tells you, 'Welcome to 4D School, Khwarizmi!'
+Lionel tells you, 'You'd better get the equipment in the box.'
+Lionel tells you, 'You're going to need it in this harsh world.'
+
+114H 1000M 1000V (100) 1,119TNL>
+
+Lionel tells you, 'I can teach you to practice your first skills too.'
+Lionel tells you, 'type PRACT, to see what you've got.'
+Lionel tells you, 'If you are a Caster, you definitely need to practice Manifest.'
+Lionel tells you, 'To see what it does, type HELP MANIFEST and HELP ORB.'
+
+114H 1000M 1001V (100) 1,119TNL>
+
+Lionel tells you, 'Also, before you go... There is a useful command for you to use while going 
+through 4D School, called TASKS. '
+Simply type TASKS and it will let you know what you need to accomplish within the School itself, the 
+Quest Academy, and the Newbie zones following it.
+
+114H 1000M 1001V (100) 1,119TNL>
+
+--
+
+[HINT] If you lose your tabard, go 2 south of Recall and say I am new here.
+
+--
+
+read letter
+So - you don't think of yourself as a newbie? Very well, it is your choice,
+even if this mud might be quite a bit different from others that you may have
+played. Anyway, here is some advice for you:
+- There is a Donation pit under the Place of Recall, which is in the south 
+  end of Adventure Avenue. In it you may - or you may not - find some equip
+  donated by other players. If you are lucky it may be very good too.
+- There are 4 newbie zones for the levels 1-10, situated on both sides of
+  Venture Way, west of Gordy the Greeter. There are no aggro mobs in those, 
+  and the mobs are between level 1 and 10, so consider before you attack.
+- Mud School here is NOT the usual stock School, it's a zone, containing some
+  rather good equip, plenty of mobs between level 1 and 4 for you to kill, 
+  several easy Quests and - above all - some useful information about this 
+  mud. And be sure not to miss the Quest Academy at the top.
+- Gordy the Greeter will send you to different places on request. Just 
+  SAY Recall, Library, School or Venture
+- The 4D Travelling Agency south of Recall can give you other valuable 
+  information. The same goes for the Seeker's Library.
+But you don't want info, right? You want to get killed right ahead? 
+O.K. - type "wear all", "wield <weapon-name>" and have Gordy transport you.
+
+--
+
+The Start Of 4D School
+[ Exits: e s ]
+You are about to enter the school that will teach you about the different
+Dimensions of this world of ours, and show you how to do many different things
+here.  From basic mechanics, to socializing, to combat, it's all here in the Mud
+School.  For your first 10 levels here in 4D, there is no death penalty.  The
+Gods will revive you.  You will be sent to a place where you will be healed.  
+Once there just enter the rift and you will be at the Recall point.  To get back
+to here from Recall, just head all the way north, say 'please' at the gate, and
+keep going north.  But remember, that's only till level 10.  After that dying is
+a bit trickier.  You will have to return to your corpse to get your stuff back,
+or wait for it to automeld.
+You can come back to newbie school any time till you are level 50.
+There's a sign on the wall. Type LOOK SIGN to read it.
+ An old man sits before you, sifting through junk on the floor.
+
+--
+
+look sign
+After finishing each Grade of 4D School you have a free choice if you want to
+skip one stage and go on directly to a higher Grade.  You can also type 'down'
+to drop out of School entirely, in case you get bored and want to try the Game a
+bit before proceeding.  There is always the chance to come back later and finish
+your education.  Only remember - once you are past level 50, you will no longer
+be permitted to enter 4D School.  Now type east to go to the next station.
+
+If you type look around, you will see some information about the zone you
+are in.  It shows the name, the level range, and the average of all the mobs
+that are in the zone.  These numbers are 'realtime' basically meaning that if
+somebody kills all the top level mobs, they won't show up on the range till they
+reset.
+
+--
+
+look sign
+As you already have noticed, you move around by just typing the direction in 
+which you want to go. There are six directions in which you can normally leave 
+a room; north, east, south, west, up and down, (use n, e, s, w, u and d as 
+abbreviations). Some rooms have all these exits, some have only a few, some 
+have none at all. And some exits are doors, that can be closed or locked. A
+closed door doesn't show up in the room desc; you have to look or walk in that 
+direction to see it. 
+The command EXITS lists all exits and the room they lead to.
+The command MAP gives a small map of the closest surroundings in 'normal' zones.
+If you are in a 'Wilderness' zone the map will be bigger, 11 x 11 rooms.
+Some exits are one way exits, meaning you can't get back to the room you just 
+came from. As you can see there is no exit west here leading back to the lake 
+you came from. The exit going north leads to the next station of 4D School. 
+Type 'north' (or 'n') to get there.
+
+--
+
+look sign
+You fade into view.
+- To refresh what a room looks like: type 'look'. 
+  This brings back the original room description.
+- To look at an object or a person: type 'look <item-name>' or 'look <char-
+  name>' 
+- You can also sometimes look at nouns in a room description. 
+Looking at things will in most cases give you a closer description of the 
+object or the person. Sometimes it will give you VERY valuable information, 
+perhaps about a hidden object or a Quest. 
+You can also LISTEN and SMELL in a room, by just using those commands. In some 
+cases, but not often, this too might give you some valuable information.
+
+--
+
+look sign
+Actually those small animals aren't QUITE as easy to kill as they look, unless 
+you get a bit tricky and use a nice hard hitting attack on them.
+1.  Did you get those things behind the stone to the west?
+2.  If so, type WEAR ALL, REM <WEAPON NAME> and WIELD SLIVER (the sliver is a better
+    weapon than the dagger).
+If you are a Mage, Esper, or Priest of course you will want to MANIFEST the 
+sliver and then WEAR it.
+3.  After you killed one animal check the hitpoints on your prompt. If it is 
+    low you must recover before you attack the next animal. This will only 
+    take a few seconds. If you attack before being fully recovered, the next 
+    animal will probably kill you.
+- There is also a command called NOBAT that you can use. This toggle will
+brief many things that you see. Its main use is to cut down on spam that
+fighting can cause. When you have nobat on, you will only see yourself
+being hit, and the hits that you are inflicting. Also, if you have nobat
+on, you will not see other people fighting.
+To use this command, just type NOBAT. To turn it back off/on, type NOBAT
+again. There are many other toggles available to you as well. To view the
+list of them, type TOGGLE.
+
+--
+
+look sign
+When you have been moving around a bit, your move-points get lower. When you 
+have been engaged in a fight your hitpoints decrease. You can check your 
+current stats by typing SCORE. This will show you two sets of figures for each 
+of the stats hp, mana and move. If the right one is a bit lower than the left, 
+you'd better wait till you have regenerated before moving on to the next room. 
+You'll regenerate quicker if you type REST or SLEEP. Sleep is the fastest 
+way, but it also shuts you off from what's going on in the game, and exposes 
+you to the attacks of some cowardly mobs that only attack sleeping players. 
+So you should always be a bit cautious of WHERE you fall asleep. This room 
+is quite safe, however, so it would be OK to do it here. When you feel rested 
+enough, type first WAKE, then STAND to get on your feet again. Then go east.
+
+--
+
+look sign
+Equipment check time! Type EQUIPMENT to see your current equipment. If you 
+just entered the Mud for the first time, you probably do not have much.
+To see all the positions that you can wear equipment on type: EQ ALL
+As you go through 4D School you'll be able to collect some more equipment. 
+To wear a piece of armor:       type WEAR <item > (for instance `wear vest')
+To light a light source:        type HOLD <item > (for instance `hold banner')
+To wield a weapon:              type WIELD <weapon> for instance 'wield sword'.
+To manifest a weapon to an orb: type first MANIFEST <weapon>, then WEAR <orb>
+To wear all the armor you have:                      type WEAR ALL.
+To use a magical item like a wand, scroll or staff:  type HOLD  <item>
+To stop using a piece of equipment:                  type REM(OVE) <item>
+To put all loose things into your backpack           type put all backpack
+To get them out again                                type get all backpack
+or, to get a single item out                         type GET <item> BACKPACK
+Finally, to see the items in your inventory:         type INVENTORY.
+
+--
+
+look sign
+In this dangerous world you'll be wise to look a bit ahead, before you step
+into the next peril.  You do this by typing 'look <direction>' (for instance
+'look south').  This will give you some - usually very brief - information 
+about what the room you are about to enter looks like.  But it will also tell 
+you if there are any 'Mobs' waiting for you in that direction, and how far 
+away they are.  Using the commands LISTEN and SMELL might give additional 
+information.
+Now type 'look west', 'look south' and 'look north' to test it.  Then go
+south.  (It will be pretty safe if you just follow the instructions!)
+
+--
+
+look sign
+The third killing lesson is running away. This female cave bear is way too 
+strong for you to kill, but she won't have time to kill YOU if you run away 
+fast enough. So try it out by typing 'cons bear', and then 'kill bear'. After 
+a second or two, type 'flee' to escape from her. 
+You can also set your char to flee automatically with the WIMPY command. 
+(For instance type 'wimpy 10'). This will make you flee automatically when 
+your hp goes down to 10. Type 'HELP WIMPY' to find out more about WIMPY.
+Remember, don't fight her to the finish!  Just type 'KILL BEAR', then when you 
+are fighting, type FLEE, and repeat it until you flee and are out of here. 
+After you flee, you will be back on the ledge you just left. Maybe you had 
+better rest a bit after the fight? When you feel ready to go on to the next 
+station, go NORTH.
+
+--
+
+look sign
+Usually you gather your equipment by killing mobs that you encounter on your 
+travels. The woman and child here each have something that could be useful 
+for you. The easy way to get it is of course to kill them. 
+But then again - killing isn't always the best choice...
+However, if you decide to kill them, get all the equipment from the corpse 
+with the command 'GET ALL CORPSE'. If there are more than one corpse in the 
+same room, use 'GET ALL 2.CORPSE' etc. You can make your char do these things 
+automatically by typing 'autoloot' and 'autogold', which might be a good idea
+to do at this stage. Then use the command 'WEAR ALL' to wear your newly won 
+equipment. 
+You can also sacrifice items that you don't want to keep to the gods. To do 
+this, first drop the item, then type 'SAC <item>'. This will earn you a small 
+reward in gold, and also helps to keep the World clean. Another way to get rid
+of an item in your inventory is the command 'JUNK <item>'. 
+After you are through with the loot go east to the next station.
+
+--
+
+read sign
+Sometimes doors to a room are closed, or locked, or 'secret', and then you 
+can't see them as you enter the room. You have to type 'look <direction>', 
+(for instance 'look east') to find out if there is a closed or locked door in 
+that direction. Then you type 'open door' or open 'east' or 'open door east'.
+If the door is locked, you have to first type 'unlock door'. 
+To unlock a door you must obviously first find the key to it. Usually - but 
+not always! - it is hidden in the same room, or a mob in the room has it. 
+To find a 'secret' door you have to type SEARCH, and often repeat it a few times.
+In some cases the door is a 'portal', then you type 'enter <portal-name>', for 
+instance 'enter hole' to get to the next room. 
+This is an ordinary door though and it isn't locked, so just type 'look east' 
+to see the door and then 'open door east' to open it. It might be a good idea 
+to type 'look east' again after you opened the door, to see what dangers may 
+lurk in the next room. Then go east to enter the castle.
+
+--
+
+look Joe
+Joe would be the easiest one to kill out of all these guys standing here.  You
+might have noticed that most of these brothers have a line in front of their
+names with different colors on them.  These lines can be seen on MOBS and
+players alike.  They will tell you what tier they are at.  To learn what each
+color means look at Greg.    
+Joe is in excellent condition.
+
+--
+
+look greg
+Greg has a different colored bar next to his.  His bar means he is at tier 1.
+What are tiers you must be wondering by now?  Well, more detailed information 
+on tiers will be found further into the 4D School.  For now you just need to 
+know that the higher the tier, the tougher the mob will be.    
+The color order of the tiers are:
+Tier 1 [white] Tier 2 [cyan] Tier 3 [blue] Tier 4 [red]
+Tier 0 (Joe) has no bar next to their name.
+For more information about other important things you should know before
+going further, look at Jeff.
+Greg is in excellent condition.
+
+--
+
+look jeff
+Jeff has a different colored bar next to his name.  In case you forgot which
+colors are which, or don't know what this means, look at Greg.  Jeff's colored
+bar means he is Tier 2.  So he would be a bit harder than Joe and Greg.  At
+these low levels found in 4D School, it will be hard to really see the
+difference.  But out there in the Dimensions you will find it makes a LOT of
+difference whether it is on a mob or a player.  And though you can't see it, you
+have a bar next to your name too.  Right now it's probably the same color as
+Joe's.  Once you climb up in the tier system, your color will change.
+Jeff is in excellent condition.
+
+--
+
+look mike
+Mike is the quiet one in this family.  But as you can see by the color of the
+bar next to his name, he's a lot tougher than most of them.  The only one
+stronger is Pete.  The only thing Mike wants you to know is that if you see a @
+symbol next to somebody's name, that means that that is a player just like you.
+NOT a mob.  So unless you have a PK flag, it would be wise not to attack
+anybody with the @ symbol next to their name. Type nodisplaytitle off, next 
+time you see someone in the same room as you and that person is an actual
+player, you will then see the @ in front of their name.
+For one last very important bit of information, look at Pete.
+Mike is in excellent condition.
+
+--
+
+look pete
+Pete is the oldest brother of this family.  He's also the toughest.  He has
+made it all the way up to tier 4.  Pete thinks you should learn about the
+battlespam toggle before you move on in the school.  This is one of the most
+informative toggles in the game.
+When you have battlespam turned off you will not see what happens when other
+players are fighting.
+It also means you will not see the affects that mobs, other players, or objects
+have on them.
+It also means you won't see any experience gains you may get.
+It also means you won't see hunger or thirst messages in the game.
+Well, this family has told you all they can about quite a few things. Now why
+don't you kill them and head back into school.
+Pete is in excellent condition.
+
+--
+
+say greetings
+You say, 'greetings'
+Lady B exclaims, 'Greetings, child!'
+Lady B flutters her eyelashes at you.
+Lady B tells you, 'It will be a pleasure teaching a handsome youth like you!'
+Lady B tells you, 'But if you want me to teach you, you must say 'Please'.'
+Lady B smiles warmly at you.
+
+145H 1029M 1038V (100) 24,385TNL>
+say please
+You say, 'please'
+Lady B tells you, 'Hm, where shall I start? Oh yes - with being polite, I think.'
+Lady B tells you, 'You'll meet some beings in this world that can speak to you.'
+Lady B tells you, 'Not many of them will answer you - but some will...'
+Lady B tells you, ''Greetings' is often a good way to start a conversation. '
+Lady B tells you, 'But I might be boring you with my ramblings...'
+Lady B tells you, 'If you want to know more, you must say 'Tell me more'.'
+
+145H 1029M 1038V (100) 24,385TNL>
+smell
+The scent of Lady Beatrice's perfume is almost overwhelming.
+
+145H 1029M 1038V (100) 24,385TNL>
+say tell me more
+You say, 'tell me more'
+Lady B chuckles politely.
+Lady B tells you, 'Not satisfied yet, eh?'
+Lady B nudges you suggestively.  You two have an understanding.
+Lady B tells you, 'Let me see - if they don't respond to 'Greetings' try 'Hi''
+Lady B tells you, 'Or if you are in the Old West 'Howdy' would be a good bet.'
+Lady B tells you, 'Then again - in the Prehistoric Dimension 'Hail' is polite.'
+Lady B tells you, 'And in the Future Dimension try 'May the Force be with you' 'Hi' or 'Hello''
+Lady B tells you, 'But now I am getting tired - so run along and play, dearie!'
+
+145H 1029M 1038V (100) 24,385TNL>
+say thanks
+You say, 'thanks'
+Lady B tells you, 'Oh, I see - you are a good pupil, and polite too!'
+Lady B snickers softly at you.
+Lady B tells you, 'In return I'll give you one last piece of information:'
+Lady B tells you, 'The info you get from mobs is mostly just idle gossip.'
+Lady B tells you, 'But every now and then you'll get a piece of valuable info.'
+Lady B tells you, 'It could even tell you where the best equipment is hidden.'
+Lady B tells you, 'Now - Good hunting to you!'
+Lady B holds you in a warm and loving embrace.
