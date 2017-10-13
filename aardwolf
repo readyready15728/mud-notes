@@ -1,0 +1,282 @@
+COMMANDS:
+
+Clans:
+
+* clist
+* claninfo
+* help allies
+* clanall <clan name>
+* help outcast
+* roster
+
+Combat:
+
+* consider
+* scan
+* where
+* study
+* kill
+* flee (and recall)
+* wimpy
+* help pk
+* help warfare
+* help duel
+* help combat maze
+* kick
+* bash
+* dirt
+* aim
+* stun
+* intimidate
+* sap
+* grab
+* berserk (has to be done repeatedly)
+* scalp
+* spunch
+* assault
+* blockexit
+* uppercut
+* retreat
+* gouge
+* survey
+* stomp
+* bodycheck
+
+Communication:
+
+* <channel> (to toggle channel on/off)
+* who helper
+* tell
+* faster
+* slower
+* say
+* socials
+* emotes
+* <channel> -h [lines]
+* shelp
+* reply
+* catchtells
+* replay
+* tell -h [lines]
+* ignore
+* friend
+* info
+* noinfo
+* quiet
+* subscribe
+* help note
+* note catchup
+* listen
+* racetalk
+* help guild channels
+* nowar
+
+Customization:
+
+* autogold
+* autoloot
+* autosac
+* config all
+* spamreduce
+* damage
+* notify
+* info
+* colorset
+* prompt
+* bprompt
+* title
+* pretitle
+* nopretitle
+* desc
+* www
+* from
+* who from <place>
+* afk
+* afkmsg
+* noloot
+* consent
+* visto
+
+Economics:
+
+* worth
+* list
+* appraise
+* buy [amount] <item>
+* sell
+* value
+* auction
+* bid
+* deposit
+* withdraw
+
+Health:
+
+* sleep [item]
+* wake
+* score
+* hunger
+* eat <item>
+* drink <item>
+* fire
+* herbal
+* camp
+* treat
+* butcher
+
+Help:
+
+* help newhelp
+* index
+* contents
+* help search
+* help bored
+
+Information:
+
+* look
+* who
+* score
+* skills
+* spells
+* allspells
+* learned
+* showspell
+* affects
+* saffects
+* align
+* rank
+* myrank
+* weather
+* time
+* help builders
+* help testers
+* help www
+* rules
+* policies
+* gamestat
+* recon
+
+Magic:
+
+* cast
+* e.g. cast 'cure light' self
+* spellup
+
+Mini-games:
+
+* help blackjack
+* help poker
+* lasertag
+* trivia
+
+Movement and Navigation:
+
+* run
+* runto
+* recall
+* speedwalk
+* find
+* exits
+* map
+* areas
+* mobdeaths
+* speedwalks
+* ownedwhere
+* bigmap
+* coordinates
+* help world
+* automap
+* maprun
+* shortmap
+* maptags
+* explored
+* areas explored
+* areas unexplored
+* enter
+* help runprefix
+* help maze
+* mist
+* bashdoor
+
+Objects:
+
+* give
+* get all corpse
+* i
+* eq
+* get
+* drop
+* put
+* e.g. drop 2.sword, drop all.sword
+* keep
+* wear
+* wield
+* hold
+* remove
+* identify
+* lore
+* open <direction>
+* unlock <direction>
+* compare
+* sharpen
+* reinforce
+* brew
+
+Quests:
+
+* goals
+* tasks
+* quest request
+* help campaigns
+* help gquest
+* help area quests
+
+Training:
+
+* train
+* practice
+* superhero
+* remort
+* retier
+* help rebuild
+
+WAYS TO PROCEED WITH GOALS:
+
+* say yes
+* say <exactly what the individual might want to hear>
+* nod <individual>
+* look at description for clues
+* listen <individual>
+
+NOTES:
+
+* Killing creatures of higher level or opposite alignment gives more experience
+* Aaeron says, "There are two forums that are important for you to read each time you login. The 'announce' and 'mudinfo' forums contain important updates from the game administration and often list newly added commands and features."
+* A trustworthy trustee says, "There are several stories of other prisons, less accessible than The First Ascent, but only reachable by obtaining an elusive Dragon Bridle."
+* A trustworthy trustee says, "Before being tragically killed in a freakish juggling accident, one escapee used to broadcast a notion that a specific sequence of 'dragon emblems' would unlock the way from 'The First Ascent' to the next prison."
+* Need to use 'detect invis' to see items for sale in Cabal of Elements clan hall
+* Trains and practices can be converted to each other
+* To enter Zangar's Demonic Grotto, go north of where the door is and open down. Then in the southeastern corner do the same.
+* If at a loss for what to do next, try detect invis and detect hidden
+* Avoid walking towards red asterisks in a maze
+* Wear amulet of the planes and then type enter to use it; same goes for portals
+* Rooms with graffiti are also important for getting out of mazes
+* Conjure elemental stones:
+  * Clear: Air
+  * Deep red: Fire
+  * Pale blue: Water
+  * Earth?
+* Kill couple for mask, wear and give invitation to guard to get into mansion on Masquerade Island
+* Xyl's Mosaic:
+  * say garden
+  * find a rock, then lift rock
+  * find dhrip, lick dhrip
+  * find rubber tree, climb tree
+  * say handsome devil
+  * open west
+* Use the social *pat cow to proceed in getting up the beanstalk in Faerie Tales II
+* Selling unwanted crap is typically a much better deal than sacrifice
+* Being invisible and hidden is useful for corpse retrieval
+* 'tell aarch where' to determine location of Professor
+* For Stuff of Shadows: "find the magister say stuff of shadows he will take you to the vault.  Wait until he asks what you want and give him 5000 coins.  He will draw a circle then you type enter circle"
