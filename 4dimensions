@@ -496,3 +496,318 @@ this, first drop the item, then type 'SAC <item>'. This will earn you a small
 reward in gold, and also helps to keep the World clean. Another way to get rid
 of an item in your inventory is the command 'JUNK <item>'. 
 After you are through with the loot go east to the next station.
+
+--
+
+If you think a new piece of equipment that you just found is better than what 
+you've already got, you have to REMOVE the old item before you can wear the 
+new. And if you have two daggers in your inventory and want to wield the 
+second one, you have to type 'wield 2.dagger'.
+CONTAINERS are very useful since they allow you to carry more items.
+Type 'look <container>'   (in this case 'l basket') to look at the container. 
+Type 'look in <container>'(in this case 'look in basket') to see what's 
+                          inside it.
+Type 'get <item> basket'  to get an item from the basket. 
+Type 'get all basket'     to get everything there is in the basket.
+Type 'put <item> basket'  to put an item into the basket.
+Type 'put all basket'     to put everything you are carrying in the basket.
+Type 'get basket'         to pick up the basket with its content.
+After having collected what you want, go north.
+
+--
+
+You get exp points by fighting and killing things. You lose exp points by 
+fleeing from battle, and above all from getting killed. When you have gathered
+enough exp points you'll rise to the next level. A message will be displayed 
+on your screen informing you of this. Reaching a new level means that you 
+gain more practice points, to practice your skills and spells. You can use 
+the command SCORE to check how many points you need to get to the next level. 
+If you are very close to it, you'd be wise to be a bit extra cautious. Being 
+killed hurts a lot, but nothing hurts more than being killed when you have 
+only 30 exp points left to level. 
+Typing WHO will also show you your level, since that command displays all 
+players on line, with their level and class beside the name.
+There are also different ways to display the who list. To see your options
+type HELP WHO.
+
+--
+
+Sometimes doors to a room are closed, or locked, or 'secret', and then you 
+can't see them as you enter the room. You have to type 'look <direction>', 
+(for instance 'look east') to find out if there is a closed or locked door in 
+that direction. Then you type 'open door' or open 'east' or 'open door east'.
+If the door is locked, you have to first type 'unlock door'. 
+To unlock a door you must obviously first find the key to it. Usually - but 
+not always! - it is hidden in the same room, or a mob in the room has it. 
+To find a 'secret' door you have to type SEARCH, and often repeat it a few times.
+In some cases the door is a 'portal', then you type 'enter <portal-name>', for 
+instance 'enter hole' to get to the next room. 
+This is an ordinary door though and it isn't locked, so just type 'look east' 
+to see the door and then 'open door east' to open it. It might be a good idea 
+to type 'look east' again after you opened the door, to see what dangers may 
+lurk in the next room. Then go east to enter the castle.
+
+--
+
+Tiers are:
+
+0 (no bar)
+1 (white bar)
+2 (cyan bar)
+3 (dark blue bar)
+4 (red bar)
+
+--
+
+@ symbol next to someone's name means they're not an NPC
+
+--
+
+SAY        sends a message to all awake players in the same room as you.
+GOSSIP     sends a message to all players in the Mud. 
+SHOUT       can be heard by everybody in the same Zone as you.
+HOLLER     can be heard by everybody in the Mud.
+TELL <Player name> sends a private message to a player anywhere in the Mud.
+WHISPER <Player name> sends a private message to a player in the same 
+room as you.
+REPLY sends a message that can be heard only by the last person who sent you 
+a tell. Be careful how you use reply - since another tell can intercept your 
+answer, it may land you in very embarrassing situations if used 
+thoughtlessly.
+Type HELP SAY to get some more information about the Communication Channels.
+Now say 'Greetings' to the Young Squire in this room. He'll call you out and 
+you should accept his challenge if you think that you are strong enough to 
+beat him.  After having fought him and hopefully won, go east.
+
+--
+
+Lady B tells you, 'Let me see - if they don't respond to 'Greetings' try 'Hi''
+Lady B tells you, 'Or if you are in the Old West 'Howdy' would be a good bet.'
+Lady B tells you, 'Then again - in the Prehistoric Dimension 'Hail' is polite.'
+Lady B tells you, 'And in the Future Dimension try 'May the Force be with you' 'Hi' or 'Hello''
+Lady B tells you, 'But now I am getting tired - so run along and play, dearie!'
+
+--
+
+The Bulletin-board is meant for reading and sending messages to every Newbie 
+passing this room. You will find another Bulletin-board later at the place 
+called Recall. Make it a habit to check that board often!
+To get a list of the messages on the board: type 'look board'
+To read a message on the board; type 'read #'
+To send a message to all newbies; type 'write <header>'
+This will get you into a message editor. Write your message.
+ /f on a new line formats the message.
+ /c clears the message so you can start from scratch.
+ /l shows you what the message looks like.
+ /s sends the message.
+The command /h will show you all the commands you can use while in an editor.
+Regrettably new players cannot write on boards until they reach level 20.
+(This is because the ability was abused by some jerks). You can still read
+what other players posted however.
+
+--
+
+To learn about how to post and read on the Bulletin BOARD, look 'note'.
+You can also send personal MAIL to anybody in the Game, but to do this you
+need to go to a POST OFFICE. There is one at the fountain, just 1 step east 
+from Recall Point, which you are going to get familiar with later.
+There are also other post offices that can be found in other dimensions.
+You will also be able to write NOTES, using a pen and a paper, which you 
+can buy in the shop 2 south of Recall, or in the general shop of Olde Yorke.
+Once you've got the paper and pen in your inventory the command to write 
+notes is: 'Write pen paper'. 
+There is only one problem with writing NOTES. You can NOT do this in a room
+where there is a Bulletin-board. If you try, it will only result in a message
+being posted on the Board, with the header 'pen'.
+Look at the note in this room and you'll understand why.
+
+--
+
+To effectively use spells you have to be a member of certain classes: Mages,
+Espers, and Priests.  Priests mostly cast defensive spells, like healing and
+shielding.  Mages are a mainly offensive class.  Espers can be independent;
+they have magical shields and a lot of protection.  A few other classes can use
+occasional spells, but usually the other classes are restricted to use the
+spells on wands, staffs, potions and scrolls.  Even as a Mage or Cleric you
+have got to practice the spells too before you can use them.    
+Magic classes need their hands free when they are fighting. They can still do
+damage when fighting bare-handed, but it is minimal. Magic classes still need
+weapons. With a skill called MANIFEST they can create an ORB from the
+weapon that will increase their bare-handed damage.
+When using a spell you type: cast 'spell type' <victim-name>. Don't forget
+to put the spell in ' ', like for instance: cast 'frost breath' dragon.
+For greater detailed information on magic type HELP SPELLCASTING
+
+--
+
+Potions contain a drink with one or several spells cast on it. To drink it 
+you just type 'quaff potion' or 'q pot' (or if the potion is red, you can try 
+type 'q red' too. This might save you from getting your potions mixed up 
+later). But be careful - some potions can be drugs that are very bad for your 
+health. Sometimes you can get some information about what a potion contains by 
+just looking at it. But the only safe way to know is really to IDENTIFY it. 
+(Either you ask a Mage friend of yours to do this for you, or buy a 'Scroll 
+of Identification' in one of the Mage Shops that you are going to find later).
+Be careful how many potions you carry, weight will affect your speed.
+
+--
+
+In many Realms you 'quaff potion and 'eat pill'.  Not so here.  To make it a bit
+easier - or harder?  - for you, the Gods of this Realm have decided that you
+quaff the pills too.  So if you find a blue pill lying around somewhere, you can
+type 'quaff pill' or 'q blue' to test it.  But - the same goes for the pills as
+for the potions; they might not be all that good for you.  There are some nasty
+drug-dealers around the place...  So even if you find a pill marked "VIAGRA",
+maybe you should think twice before you try it.  
+Be careful how many pills you carry, weight will affect your speed.
+
+--
+
+A scroll is a piece of parchment with a magic formula written upon it. To
+use the magic words you have to recite the scroll.
+To do this, you type 'rec <scroll name> <target>'.
+One of the most useful scrolls of all is the Identification Scroll, which can
+be used to identify objects you find around the Realms. The way to use it is
+to have the item and the scroll in your inventory and then type 'rec identify
+<item-name>'. (You'd better not typo when you use scrolls by the way, or the
+scroll will just burn to cinders in your hand).
+Be careful how many scrolls you carry, weight will affect your speed.
+
+--
+
+A wand is a magical item, with which you can cast a spell on another player or 
+yourself. Wands mostly have attack spells, but other spells can be found too, 
+like for instance 'invisible'.  To use a wand you must first hold the wand.  
+Then you type 'use wand <target>'.  Be careful, because if you don't give a 
+target, YOU may be the target and this isn't always a good thing.
+Be careful how many wands you carry, weight will affect your speed.
+
+--
+
+It is generally a good idea to carry out any requests that a Mob may have
+on you. They usually reward you for it in one way or another. It can even
+be worth while to do them a favour WITHOUT being asked for it. You can 
+test this right away if you want, with the signet ring that the Governess, Mrs 
+Apple has accidentally dropped in one of the jars, when stealing cucumbers. 
+She resides in the room north of the kitchen. Get the ring from the jar, then 
+go to that room and give it to her. Oh - and don't forget to bring Cook the 
+knife that you might have come here for in the first place.
+The command you use is: 'Give <object-name> <char-name>' in this case 
+'give ring Apple' and 'give knife cook'.
+
+--
+
+Use full direction names with open if you get an error message
+
+--
+
+If you type pract in any room where there isn't a Trainer, you will get a 
+list of the skills and spells you can train. It will be short at first, but 
+grow longer as you rise in levels. You'll also see how many Practice points you've
+got left.
+If you type pract skills or pract spells in a room with a Trainer - (remember 
+the [T]!) - you'll get a list of all the skills/spells that Trainer can teach. 
+(You may not be able to train all of those, since the Trainer may only teach skills
+for another Class, or you may not yet be high enough level for what he/she teaches).
+To see all the skills and spells of a certain Class, type skilllist <class-name>,
+for instance skilllist esper.
+To see what a particular skill/spell does, type help <skill-name>. The info 
+you get will be different dependent on the Tier of the skill/spell:
+- For all tier 1 skills/spells you'll get mob name + Dimension + Zone 
+- For all tier 2 skills/spells you'll get mob name + Dimension
+- For all tier 3 skills/spells you'll get just the mob name
+- For all tier 4 skills/spells you'll get just the Dimension
+Finding the right Trainer for a certain skill or spell could be something of a 
+quest. It's a good idea to always type pract skills/spells in a room with a Trainer, 
+to check what they can teach. That knowledge might come in handy after you've 
+remorted to another Class.
+
+--
+
+SOME USEFUL COMMANDS:
+The commands SCORE and WORTH will show you many useful bits of info.
+Typing GOLD will show you how much money you have, as well as how many tokens
+and TradePoints.
+Typing TOGGLE will show you all the options that you can toggle on and off in 
+this Mud.
+Sometimes, if you are looking for a friend of yours, it could be useful to
+know when he or she was last logged on to the Mud. 
+You do this with the command finger <Player-name>. 
+Another good option here is to attract somebody's attention by 'beeping' 
+him/her. 
+The command for this is page <Player-name>. (You have to be level 3 to use 
+this command, though).
+If you think that a certain player is really annoying, you can block out all 
+input from him/her by typing ignore <Player-name>. To 'unignore' them, just 
+repeat the command. 
+This is actually the way you use all the toggles, you repeat them to turn them 
+on and off. So if you for instance want to listen to the gossip channel, you 
+type nogos, since it is toggled off by default.
+
+--
+
+Playerkilling - also known as pkilling - is allowed in this mud, but there are
+some restrictions to it.  To become a pkiller you must first register as pkiller
+at the Mayor's Office in Olde Yorke.  After doing this, you get the label
+PK by your name in the who-list and you are now able to kill and steal,
+but only from OTHER pkillers.  The code will prevent you from even attacking a 
+player that is not a registered PKiller, just as it will protect you from being
+attacked yourself, if you choose to lead a peaceful life. You can also only loot
+corpses, if you are registered as PK yourself, and only those of other Pkillers.
+Becoming a PKiller is a risk you take, since you can lose some equipment if you
+get killed. So to prevent newcomers from making rash decisions, you need to have
+remorted first before you can register, and there is a fee of one bronze token.
+Many players think that PK is fun however, and adds an extra spice to the game.
+Type HELP PKILL for more info.
+
+--
+
+To see what's for sale: type 'list'
+To buy something: type 'buy <item-name>'
+Remember - if you drink whiskey or other spirits you are likely to get a bit 
+intoxicated. How long you stay drunk is obviously dependent on what and how 
+much you drink. While you are drunk you're a nuisance to yourself and others 
+you may try to talk too, so maybe you should be a bit cautious with the liquor.
+
+--
+
+To see what horses are for sale type LIST.
+To buy one of the horses on the list: type 'buy 1.horse' or 'buy 2.horse'.
+This will get you the first or second horse on the list.
+You can also type 'buy mare' or 'buy gelding' if you want to be more specific.
+Now, to learn how to use your new horse, look at the sign on the wall.
+
+--
+
+The mounts are especially useful if you are going to travel far, since you will
+lose a lot less move points when you are riding than walking.  They are also
+good help in combat situations.  If you are mounted while fighting, your mount
+will be taking some of the same damage you are, but in return, you will find
+yourself stronger while you are mounted.  You have got to practice the skills
+MOUNT and RIDING to use a horse or other mounts, so maybe you'll not be
+able to ride any of the horses here yet. But as you can see, Jeff, the stable 
+hand has a [T] by his name, so he can train you, if you are high enough level. 
+Once you've learnt the skills, all you've got to do is to type mount mobname 
+(for instance mount mare) to get into the saddle. Then you just move around as
+usual. When you get tired of riding, just type dismount to get off. The mount
+will just stay were you left it, and if you disconnect, it will find its way 
+back to the stable. 
+Your riding skill will of course improve the more you use it.  Now, if you did
+buy a horse, just mount it and ride south, to get back to Main Street and the 
+next station of the School.
+
+--
+
+QUESTS King Arthur's Knights of the Round Table used to be out on different
+quests most of the time.  This is something that you probably will be doing a
+lot too, since questing is one of the best ways to get good equip and to collect
+the tokens, with which you can buy some of the special features in this mud
+(like houses, personalised equip and personal mounts).  If an immortal is 
+running a global Quest and needs to know who wishes to participate, he/she will
+ask the players to turn on their Quest channel if they are interested in the 
+Quest. You do this by just typing QUEST.  This also allows you to listen in 
+on the Quest channel and receive information specific to the quest and to use 
+the command QSAY.  By typing 'qsay <message>' you can tell something to 
+everyone on the current Quest. If there is no global Quest running, the Quest
+Channel is of course not doing anything at all.
+Type HELP QUEST to get some more information about quests.
