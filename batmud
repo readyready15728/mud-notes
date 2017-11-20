@@ -1,0 +1,590 @@
+* help getting started
+* help quickstart
+
+--
+
+When you enter the game you will be in Dortlewall at the beginning of the first tutorial. Dortlewall offers a lot of tutorials which are designed to teach you how to play the game. The village is a safe place so you can easily wander around the town to have a look. There's also a crystite mine within the town which is a small area designed particularly for new players. Dortlewall also offers a lot of basic services, such as adventurers' guild and portals to race shrine or to Damogran's warehouse in Arelium.
+
+--
+
+scan/x can be used to see opponent condition; consider (can't be shortened), to see how good a fighter they are
+
+--
+
+To flee from battle, simply walk out of the room, use wimpy now or set your wimpy before the battle and hope for the best.
+
+--
+
+Handling multiple items of the same type can be done by first using eqnumber to identify the
+correct item and then just by adding the corresponding number to the wield or wear command. For example, if you have two rings, you can do eqnumber ring to see which ring is which, and then wear ring 2. As a rule of thumb the last gotten item is 1, and so on, but to order items in inventory you can use the juggle command.
+
+--
+
+Once your enemy is dead, you can loot the remains. This is easiest done with get all from corpse (or gac for short). With rip_action you can define your actions to be performed automatically everytime a monster dies. It is good practice to dispose of the body, so it will not come back to haunt you. The simplest way is to dig grave - a shovel speeds up the process. If there are multiple corpses to be looted, loot loots them all. 
+
+--
+
+'ansi items dull cyan' makes item descriptions much more legible; 'ansi roomshort light yellow' (or
+similar) marks the beginnings of room descriptions clearly which is also very helpful
+
+--
+
+The path forks to three here. You must make a choice now. To help with that choice, you can try commands exits and peer, that is, peer southwest for example. Go on, try and peer southwest, south and southeast, and pick a direction to continue your way.
+
+--
+
+There are many kinds of interactions: interacting with other players with tells or by emoting and interacting with monsters. Most commonly you talk to monsters with ask <monstername> about <subject>. If the "monster ignores you", it typically means it will not speak anything when using ask. Another less common way is to talk to <monstername>. Talking with other players can be done over channels or by using tell to communicate directly. If you want to express different feelings to someone, you can use emote with desired feelings and adverbs.
+
+--
+
+Sometimes you will get into a situation where you are fighting many opponents at once. Instead of throwing haymakers randomly at each one of them, you should target one opponent at a time. This will ensure a faster victory which in turn means more money, equipment and fame.
+
+--
+
+Doors and locks are for honest people they say. It seems that there are a lot of honest people in BatMUD. Not all doors have locks and not all locks have keys for them. Some doors open with a password, some with thievery and some just by knocking politely. To open a locked door with a key, simply unlock door if you have the required key in your inventory. To open the second door in a room, use unlock door 2, and so on. Usually it isn't required to open the door with open door, you can just walk into the direction of the door and you'll automatically open and close it afterwards. You can also lock door if you have the key for it in your inventory. Also worth noting: closed doors won't show as obvious exits, but exits command shows them.
+
+--
+
+Whee, you are out of that stinking cave. And someone has already built a campsite for you to use. You can start with sleep. That means you start looking for a place to sleep, and after a while you are sound asleep. After that, you can contemplate your past experiences. That means level up time! Type advance level. You can do this almost everywhere, if you have the experience required (you can check that with advance cost). After you're done resting, continue south.
+
+--
+
+You are getting closer to your destination. Time for some more lessons before the final battle. This lesson is about skills and spells, and how to use or cast them. Now, check your skills (just type that). Every skill and spell has its own helpfile, accessible via help skill skillname, for example help skill punch. Same goes for spells, help spell spellname. Don't worry if this is confusing, your tutorial will remember these lessons and you can check them out again later.
+
+--
+
+'[channel] last' gets channel history
+
+--
+
+The forest gives way to a field, and you can see the village further south. Time to learn to use your skills and spells. The ring you found at the beginning gives you the knowledge of spell shocking grasp and skill punch. Syntax for using a skill is use skillname at targetname. You can usually omit the 'at targetname' if there is an obvious target, like in combat. Spells are similar, cast spellname at targetname. Feeling a bit mischievous? You could try cast shocking grasp at scarecrow or if you don't have enough spell points, use punch at scarecrow.
+
+--
+
+Dawnmist the dryad, welcoming new adventurers
+Dawnmist says 'Hello, Khwarizmi. I sense you have the ring. You can give it to me and I'll deliver it to master Tayrien.'    
+She seems legitimate. You should keep remove ring to remove it from your keep list and give ring to dawnmist.
+
+--
+
+Please don't go yet! In all seriousness, take a break once in a while, it's good for your health. The usual methods of quitting are ld and quit.
+
+Ld stands for link death and it will remember your location, up till a reboot happens. It allows you to leave with your equipment still on, and is the usual method of leaving for a while. Link death also happens when there are network problems or you close your client.
+               
+If you type quit, you will go link dead. But if you try quit real it will log you out, clear temporary effects and transport you to your starting location when you re-enter the game. The downside is, you cannot quit real when carrying equipment. You can set your starting location with the start command.
+
+The third option is inns and find campsite skill. They both act as quit real, but with the difference that you re-enter the game at the same location you left, with your equipment on you. This location saving stays even over reboots.
+
+Oh, a funny little detail is that you can do for example ld getting groceries and your finger info will show that text when you are out. Same works for quit and quit real.
+
+--
+
+The major cities of BatMUD hold everything an adventurer needs, from shops to churches and guilds to restaurants. You will find that the cities are mapped and have friendly guards patrolling the streets. You can always talk to guard and ask for directions. The guards will mark your destination for you. The directions are visible in look on the streets, in the form of Dest: direction in the top right corner. Also notable for city navigation is the command map. It shows a bigger view of the city, with nearby locations.
+Dortlewall-special: you can describe map on the streets for a short key to the map.
+
+--
+
+Despite trying to be thorough, this tutorial can't take everything into account. If you need extra help with something, you can ask on the newbie channel. For example, to say hello on the channel, you would type newbie hello. Newbie channel differs from other channels in that harmful 'advice' is prohibited, making it a safe place to ask newbie questions.
+
+There is also another way of getting help. There are some designated newbie helpers, which you can see with whos helper, or whos helper unidle for listing only the ones that are more or less present at the moment. Pick one, and then tell <helpername> <your question>. Being polite will help getting an answer.
+
+Don't panic.
+
+--
+
+* 'skills offensive' shows which skills you have that incur a chance of goading mobs into attacking
+* 'show effects' is equivalent to 'affects' in other MUDs
+* Dual-wielding is more useful than in real life
+* Use 'heft' and 'compare' to assess weapons
+* Containers can be opened with 'force' with some obvious risk of traps going off; the same goes for breaking it with skills and spells
+
+--
+
+Knowing how to handle your inventory is an important skill. First of all, your inventory is split in two: items in keep and items not in keep. Kept items are harder to lose by accident than not-kept, since you cannot drop, give or sell kept items. Another big division is equipment and inventory.
+
+Your worn items are not shown in inventory, but in equipment.
+
+The basic commands of inventory handling are get for getting something from the room you are in, or from a bag or chest or something. Getting rid of items is done with drop. To put something in a bag or a rig you use put. To give something, just use give. To keep and unkeep items you can use keep.    
+
+Other useful commands are eqnumber, juggle and count.
+
+What are rigs, you might ask. They are a piece of equipment that allows you to carry heavy loads a bit easier. Anything put inside weighs a little less.
+
+One more thing about handling items. If there are many similar items, lets say axes, you can target the second one with axe 2, and the third one with axe 3. Eqnumber axe command helps finding out which axe is which. Help handling has some nice info too.
+
+--
+
+Money makes the world go around, or so they say. There are 11 coin types, the basic coin being the gold coin. Each coin weighs 1 gram, which means you will get burdened fast if you collect each and every coin you meet. The usual ways of storing coins are purses, bought from player city furniture stores (beware of cheap replicas), coffers made by player merchants, and last but not the least - banks.
+
+Banks deal only in gold coins, making the higher nomination coins a bit more valuable than what their buying value is. This is because it is easier to store a few mithril coins than a big pile of gold coins. Why not have all your money in bank, then? Well, banks, safe as they may seem, get sometimes robbed for about 10% of your account. One more thing about banks in BatMUD: all the banks are branches of the same company, so if you deposit coins in one, you can withdraw from any of the other banks.
+
+So, how much is much, and what does your gold coins buy? Usually magical items go for from measly 10k-15k (k means thousands) to several millions (M for short) pieces of gold. Unique items may fetch even hundreds of millions, but seeing one of those for sale is really rare. Guild levels usually cost some money too, to a maximum of about 2M. The amount is substantially less for low-levelers, about 100k for first guild. A good middle range item is usually about 200k.                                                          
+
+--
+
+Most shop-bought items are of low quality. That is why you usually buy your more precious items from other players. You might wonder how does the sellers and buyers find each other. There are several ways: sales channel, broker command, auction house, merchant carts and we even have a news group for rare and precious items.
+
+Sales channel is just that - a channel for advertising stuff for sale. You can turn the channel on with sales on, just like any other channel. Often you see someone mentioning broker on the channel. Broker is a command that lists the items a person is selling, among other things. You should read its helpfile for more uses.
+
+When you and the other person have agreed upon the price, it's time to meet and trade. You, being the newcomer, usually have to provide your part of the trade first. If you want to play it safe, you can use trading room in Arelium, but its cost, 10%, and the extra effort it requires are usually shunned upon. Auction house is another somewhat rarely used feature, allowing you to sell stuff even when you are not online. It costs to use, though.
+  
+Merchant carts, or cubes as they are also known, are a specialty of the merchant guild. You can list the wares of a cart with look at cube #, and buy stuff from the cube with buy # from cube #, where #'s are numbers.
+
+The news group is mostly for rare items only, items that fetch millions of gold pieces. Oh, another thing worth mentioning: no trading with RL stuff, as help trading clearly states.
+
+--
+
+lite ghost [legible color] is useful
+
+--
+
+Search is a very important command. The usual way of finding secret rooms and items is to first look at the suspected item, then search the same item. For example, if the room description has a tree in it, you should first look at tree to maybe find clues, and then search tree to see if this closer inspection reveals anything.
+
+Remember, while Dortlewall has most of the inspectable items highlighted, this isn't the case outside - you have to read the room description and think a bit about which items are significant and which aren't.
+
+--
+
+Sometimes you will get lost. Knowing a few ways to locate yourself is then in order. The command whereami tells you where you are. If you know perfectly well where you are, but need to know where your party members are, the command whereismyparty is the right one to use. After getting the coordinates, take a look at help ferries and you'll find maps to use with those coordinates.
+
+Locating yourself using the Batclient is a bit easier, since it has built-in realm map. It shows your current location, along with the locations of your party members.
+
+--
+
+You found the way to activate granite posts - that is, touching them. The one you found was malfunctioning, and didn't transport you deep into the bedrock, like a normal one would. In fact, it did absolutely nothing, except sputter. What a letdown.
+
+--
+
+Practically any map that is not logical or is even remotely confusing, is called a maze around these parts. In a maze you can walk to one direction and end up in the same room from which you left. Usually, when you notice that you are in a maze, it is already too late. Solving mazes can be time-consuming, but at the same time, very rewarding. To solve the simplest mazes just drop some coins to mark the rooms and write down notes.
+
+--
+
+It is somewhat jokingly said that the Arelium moat has claimed more victims than any individual monster. Drowning is a real hazard when dealing with water. The two most notable ways to drown are failing your swim check when wandering into area of deep water and being trapped underwater. In the first case, the thing number one to remember is: don't panic. If you panic and try to run away from the water, the chances are that you will just fail another swim check and take more damage. The way things are, you can just wait to get your hit points back and try again. Being trapped underwater on the other hand requires almost immediate action, since you can't just wait your health to return - on the contrary, the more you wait the more likely it is that you will drown.
+
+There are plenty of ways to avoid drowning. The most common way is to train your swim skill, or if you are more of a caster type, study a water walking spell or some sort of floating spell. Some rare equipment also offer ways to float above water. Avoiding water altogether is also a good way.
+
+Apart from drowning, water can be hazardous to some races. For example, thrikhrens, trolls, tinmen and vampires will take damage from water exposure. It is also worth noting that skeletons and other true undead races won't drown.
+
+--
+
+The world of BatMUD is split into continents. The most reliable way of travelling across the deep oceans between is taking the ferry. Consult the map sites on help ferries to locate the ferry stations, walk there and travel <continent>, where <continent> is the name of your destination: Laenor, Rothikgen, Desolathya, Lucentium or Furnachia. The cost of the trip varies by your level, and you can check it at the ticketmaster with cost before booking a trip.
+
+At some point you might want to own a ship of your own. While not exactly a newbie purchase, you can consult your local player merchants about prices.
+
+--
+
+During your adventures you are likely to get hungry and thirsty. While not directly lethal, staying satiated and refreshed is recommended. Being hungry or thirsty makes you recover hit points, spell points and endurance points slower. If you are starving or dehydrated, the reduction is even bigger. You can see your hunger and thirst in score.
+
+Famished means you are really hungry and you should eat something. Usual ways of getting something to eat are hunting and cooking skills, create food and satiate person spells, tinning kits and of course buying a meal from a shop. Some races are able to consume raw corpses.
+
+Thirst is countered by having a drink. You can drink from rivers and lakes, but swamps and sea are poor places to have a drink. Fountains are usually safe. Of course, magic also helps, as satiate person spell helps with thirst too.
+
+There are some bonuses for eating certain foodstuffs. Some heal you instantly, others may offer some other bonuses, as shown in show effects.
+                        
+
+--
+
+In the heat of battle, missing that one crucial heartbeat due to a typo can be the difference between life and death. So, the next time you want to "cast telekinetic whirlwind at Rechendak, the Elementalist" you can either type it real fast or use commands and aliases. The former is used to create shortcuts for various commands and the latter is to ease typing some ridiculously long names. For example, you could just do "ctw rechie" instead.
+
+--
+
+You can change various aspects of your gaming experience with set. The command set show lists the options and your current settings. You can get more help about the settings with set # where # is the number of the setting you wish to learn about. You can also use the name of the setting - it is actually recommended to use the name if you for example use set in a command. For example, if you wish to create a long walking command, set look_on_move off will reduce the spam it generates. Just remember to turn it back on, too.
+
+--
+
+Immortal is a common term for the maintainers and world creators of BatMUD. Most immortals are wizards, but some have been granted the status of archwizard.                                                                  
+
+A few of the basic ways of contacting immortals are tells, the bug command and the typo command. The bug command is mainly used for reporting bugs, and typo command for typos. Correctly addressing bugs helps the maintainers do their thing: if it's about area, just type bug in the area, if it's about an item you have, a sword for example, type bug sword, if it is about something else, try consulting help who to ask. Same goes for typos.
+
+When contacting an immortal, be polite, but don't overdo it. The help files help politeness and help how to ask questions are both good reads.
+
+How can you tell who is immortal and who not? On channels, you can immediately tell who is an immortal by their pointy <> braces. You can do who wiz, or you can simply finger the person in question, which will tell you if the character is an immortal (wizard) or an archwizard.
+
+--
+
+There are a few commands you can use to customize how your character looks like to others. First, the command desc allows you to set your description in look. It uses the BatMUD standard text editor, so reading help editor might be smart beforehand. 
+
+Second, the command plan allows you to set up your plan which is shown in finger. It also uses the editor, so same warning applies as for desc. 
+ 
+On level 5 and afterwards you can set your title - that is the text after your name and race in look and who. 
+ 
+On level 10 and afterwards you can set your surname. Be warned, you cannot change it freely. If you for some reason grow irritated at your surname, you can either hide it or ask a player merchant for a surname clearing. It will cost a pretty penny, though. 
+
+Also worth knowing are the commands url and top10. The former sets your url and the latter the monster kills. Both of these are shown in your finger info.
+
+--
+
+At some point you will be given the option to train skills and study spells. This uses up experience, but is the only way to gain new skills and spells after advancing to level 10, so it is well worth it.
+
+Please read help train, it lists all the options for training and studying, just replace train with study for spells. It is a lot easier to type train attack to:60 than type 60 times train attack, after all!
+
+Your first chance of training skills and studying spells is usually your race guild after advancing to level 11. It is located somewhere on the world map, but for ease of access you can use the various race shrine portals - there is one even in Dortlewall's guildhouse.
+
+--
+
+In BatMUD, guilds are what other places usually call classes: they offer skills and spells to train, and define your character's capabilities. The guilds of other places are called (secret) societies here.
+
+The guilds you can join depend on your background, which you chose at character creation. The command show guilds shows your background, among other things, if you happen to forget what you chose. It is important to join a guild and advance levels in it, since guilds are the only place
+offering skills to train and spells to study. You can join your racial guild at level 11, and a real guild at level 16 after taking all the race guild levels. If you think you made a mistake in character creation, visit the wise sages of Dortlewall, in southeast corner of Wizard's square. They can tell you about reincarnation.
+
+--
+
+During your travels you might make new friends, or enemies. You can keep track of these people with friends command. Basically you can do friends -a heidel or friends -a heidel asshats. The former adds Heidel to your primary friends list, the latter to asshats-list. After adding people to your friends list you can simply type friends or friends asshats to see people online on your friends lists. Combined with inform friends you can easily see when people you like or dislike enter or leave the game.
+
+--
+
+There is strength in numbers. Grouping or partying is an effective way of increasing your chances of success. A party can consist of up to 9 members, placed in a 3x3 grid. The people in the front row are nicknamed "tanks" and behind them, out of harm's reach, are the "casters". The party always has a leader whom the others follow. Gathering a party can prove tricky at first, but once your skills, power and reputation have increased, it will get easier. 
+ 
+You form a party with party create <partyname>, invite people in with party invite <playername>, join someone else's party after invitation with party join, leave the party with party leave, communicate with party members with party say <message> (p' for short) and so on. For full list of party commands, try help party.
+
+--
+
+Secret societies are (usually) player formed societies, or guilds. They offer (usually) a channel for chatting with selected people. Sometimes they also offer bonuses, but those bonuses come with a cost: the levels taken are taken from the same pool that you would use to advance in regular guilds, and some of the bonuses, namely stat bonuses, require exp to train. 
+ 
+Should you get an invitation to one of these societies, you can join it either in the society's very own room, located in a player city (usually the inviter can tell you where it is), or at the society joining room in Arelium for a small cost. Consult the cityguards for directions, destination is 'Hall of Heroes'.
+
+--
+
+Houses are small communities that may be founded once you reach level 50. They bring different bonuses (and responsibilities), but to prosper the house needs all kinds of players, even new players. Houses have their own channel where only house members may discuss and it's often a good forum for asking beginner questions from more experienced players. You may join a house either in population register office in Arelium or by visiting the guildhouse in Dortlewall. Command house may be used to get information about a house.
+
+--
+
+So, your leech Barbarian was not such a good idea after all. No worries. One of the best features of this world is the ability to reincarnate again to another race and background. You will need to ask for a reinc on the wanted channel, pay the reincer some gold, die and accept the reinc. Once the spell has been cast you will be taxed a bit of experience and you are back in the creation room. 
+
+For true newbies it is even easier, just recreate without any penalties.
+
+--
+
+The only thing that is certain in the world is death. Nothing or no-one can escape it. Luckily, in BatMUD, you can come back to life and avenge your death... or turn the other cheek. Once in hell or heaven, you have some options: pray or ask for a raise dead, resurrect or a new body on the ghost channel. Every death will age you and give you lower stats for a short while. In addition, you will lose a part of your carried experience depending on which method you take. If there are no raisers listening to the ghost channel, an NPC called Theresa can provide you some services at slightly higher penalties.
+
+--
+
+Part of the fun of MUDs is other people. The command tell is the usual way of contacting other people. For example, you could do tell heidel hello t tell the creature known as heidel 'hello'. If you have received a tell, you can do tell * <message> to reply to the tell, or tell last to review your last tells. If the tell you received was for multiple people, you can reply to all of the recipients with tell ** <message>.
+
+If you made a mistake in the target part of a tell, you can use retell to re-send the tell to a new target. You can contact someone's party with ptell. You can report your current health or stats to someone with report. If you want to say something to the people in the same room, you can use say. If someone harasses or annoys you with any of these communication methods, there is a command to ignore someone: ignore.
+
+While all of these commands are useful to know, you'll do just fine by remembering only tell, say and ignore.
+
+One more major topic: channels. You can use channels to communicate with friends and strangers alike. The newbie channel is your best bet on asking questions about BatMUD right now. Most channels work by typing in the name of the channel and then the message, for example bat hello, but some channels require you to add say before the message, most notably the guild channels. There are some 'magic words' you can use with channels, just try to say them on a channel: on to turn a channel on, off to turn it off, last to review the channel history, and who to see the people listening to the channel.
+
+--
+
+help story
+
+--
+
+Fizox [party]: write drop silver, mowgles, tin, copper into your rip_action saves time
+
+--
+
+help wimpy to see how automatic fleeing can be used
+
+--
+
+Cast word of recall to turn it on; it will be used automatically when wimpy triggers
+
+--
+
+cast 'mirror image' me
+
+--
+
+,-----------------------------------------------------.
+|         Ye Magical Cavern of Transportation         |
+|                                                     |
+|  Greetings, o brave adventurer! Manyfold are the    |
+|  places you can reach through this chamber; some    |
+|  far from the good Arelium, some near. The magic    |
+|  word is 'go', as in 'go digga' which would take    |
+|  you to Digga's Newbie Forest.                      |
+|                                                     |
+|  Below a list of choices and brief explanations.    |
+|                                                     |
+|  'beach'      - north to the beach.                 |
+|  'beastlands' - south to the valley.                |
+|  'church'     - west into the church                |
+|  'desert'     - enter into the fields               |
+|  'digga'      - go north to reach the forest.       |
+|  'garden'     - path to enter it.                   |
+|  'grove'      - south to the apple grove.           |
+|  'mines'      - down into the newbie mines.         |
+|  'newberry'   - south to the park.                  |
+|  'old oak forest' - path to the forest              |
+|  'patrics'    - abbey to enter it.                  |
+|  'secladin'   - east to the forest.                 |
+|  'wane'       - path to the mountain.               |
+|  'zoo'        - gates to the petting zoo.           |
+|                                                     |
+|  Remember - the area you go to may still have       |
+|  dangerous elements, this is BatMUD. You will       |
+|  find a granite post from each area that will       |
+|  get you back here. Good luck and be careful!       |
+'-----------------------------------------------------'
+
+--
+
+Nearest granite post to Arelium is apparently petting zoo. (Actually there is one just in front of
+the church entrance in Arelium.)
+
+--
+
+In Arelium, armor and weapons need to be sold to the right store (normal or luxury)
+
+--
+
+Movement
+--------
+
+You move by typing in the direction, for example 'north' or 'enter'. You can
+shorten the basic directions, so 'n' works just like 'north' and 'ne' just
+like 'northeast'.
+
+You can move several rooms with '# e'. The number # is limited to 20. For
+example, if you type '8 e' you'll try to move 8 times to east. At certain
+level you can use this to repeat other commands, too. (help parser)
+
+On the overworld map, and in some cities, you can use capital letters to
+move several rooms: 'SE' will move 20 rooms southeast, or until the terrain
+changes. If you are on a road, you can use the 'travel' command, which has
+its own nifty help file (help travel).
+
+That's it, the basics of movement in batmud, happy adventuring.
+
+--
+
+Upon entering the bazaar, type "join" to join the merchant's guild. It is necessary to go up in
+the bazaar to access the guild even if you can't see that exit.
+
+--
+
+ Just a few books which are very useful to merchants :
+306) 'Against thieves' by Lythlandria on 2 Jan 1996
+325) 'Alloys by Lythlandria' by Lythlandria on 8 Dec 1997
+26)  'LoC blade materials' by Naked on 27 Mar 1998
+
+(Books can be found in the Arelium library)
+
+--
+
+Minecrafting appears to be the most useful merchant skill. (But there are dangers deep under the earth...)
+
+--
+
+Dropping coins of low worth can lighten the load considerably
+
+--
+
+There is apparently a healing crystal in the upper level of the "healer thing" in the north near
+the tower in Dortlewall
+
+--
+
+You can be in multiple guilds of the same type but it takes up your free levels
+
+--
+
+'tie rope to pole' in newbie mines; rope can be bought at general store
+
+--
+
+To become a runemage:
+
+* Find one of the entrances to the guild
+* Find Winston (2nd floor) and ask about lecture; sitting down on bench for lecture appears to be needed
+* Find Fanny (3rd floor) and join
+* Find Reuben (1st floor) and step on pedestal desired number of times to advance level; all this requires is gold so beware of going too far all at once and using up free levels
+* Find Ethelwine (1st floor) and start training; because this is a lengthy process it is advisable
+to use e.g. "train runescribing next:10"
+* Three skills directly relevant to runic magic can be trained; I understand that runic research is the most important of the lot initially but also plant lore and mining are also important for
+supporting the path of runic magic
+* There is a shop on the 2nd floor that sells runestones and tools related to discovering the runes
+(which can presumably also be found in a general store)
+
+--
+
+Stat training is done at adventurer guilds
+
+--
+
+nickname <term> may shed light on unusual terms
+
+--
+
+Raw gems can be sold at the material exchange in Arelium; cut gems at the general store in Shadowkeep (or, really, any general store, but the one in Shadowkeep pays well)
+
+--
+
+fill canteen from water (sometimes water, sometimes other nouns)
+
+--
+
+start can be used to set starting location (for where you appear after reboot)
+
+--
+
+drop all coins before casting create money then get all coins afterwards to prevent rare mishaps
+that wipe out almost your entire holdings
+
+--
+
+http://taikajuoma.ovh/wiki/Main_Page
+
+--
+
+Merchant skill trainers: http://www.bat.org/forum/lofiversion/index.php/t137.html
+
+--
+
+One gets better resurrect rates from players
+
+--
+
+help blog
+
+--
+
+Typing map in the overworld gives a slightly expanded view of surroundings
+
+--
+
+There's a chest to store your uninscribed runestones in the crypt in the runemage guild
+
+--
+
+Nav trees and ships can be used for faster transport
+
+--
+
+Runestones have to be addressed in the singular to store them in the chest in the crypt
+
+--
+
+Lumber harvested can be sold on the material exchange
+
+--
+
+Non-metal armor can be "blacksmithed" 
+
+--
+
+Reinc experience is regained by gaining more experience
+
+--
+
+The priest guildmaster is on the continent of Furnachia. Take the ferry there from Laenor and go south out of Rilynt'tar. He is said to be wandering in the wastelands somewhere to the northwest of
+the bridge over lava south of Rilynt'tar. Complicating things, there are two such bridges. However,
+when someone showed me the way, he was near the western of the two bridges. Additionally, he was
+marked as an "m" for me.
+
+--
+
+http://nepos.dtdns.net/guilds/
+
+--
+
+Spider guild is pretty lame if you don't have a spider demon
+
+--
+
+Balloon travel is a possibility; Arelium and Daerwon (at least) have balloon service stations
+
+--
+
+There's a stables in Daerwon
+
+--
+
+Aura of hate compels you to attack
+
+--
+
+Last of rites is cast automatically when you are near death; chance is higher with higher level
+
+--
+
+Waterskins can be filled from shallows
+
+--
+
+Enemies in Lorenchia appear to drop a lot of money
+
+Flay (newbie): and theres always grimoor
+Malum [newbie]: Try "drawbridge" area
+
+--
+
+Street cleaners can teleport you; don't attack them
+
+--
+
+Small meadow in Laenor has a number of powerful, aggressive wolves
+
+--
+
+Mobs in the Lonely Inn will gang up on you if you attack them
+
+--
+
+Hemorrhage does more damage than cause critical wounds, other things being equal
+
+--
+
+[01:05]:Khwarizmi [newbie]: I'm becoming increasingly neutral in alignment, wat do wat do?
+[01:05]:Khwarizmi [newbie]: (I should be evil)
+[01:05]:Darna [newbie]: kill more good mobs[01:05]:Bullwinkle [newbie]: kill more good mobs?
+[01:05]:Khwarizmi [newbie]: I wonder where I can find them
+[01:05]:Tubador [newbie]: according to my mum, masturbation works too
+[01:05]:Endure the Helper [newbie]: do evil stuff like drains, desecrate ground, etc
+[01:06]:Darna [newbie]: in Arelium church, priests are good, monks are evil
+
+--
+
+When you die, Death carries you to Hell (or Heaven, if you're good). In BatMUD death is just temporary, and simply a part of everyday gaming. It is important to have a high charisma score when dying, otherwise you risk all kinds of negative effects when getting back alive.
+
+--
+
+I've been told that energy drain and mana drain are for use against other players and are not
+very useful, if at all
+
+--
+
+Arelium has pretty good XP opportunities if you're in the 30s levels and also has a number of
+good-aligned mobs to maintain an evil alignment; this is also true of orphans and nuns in the
+orphanage :p
+
+--
+
+The portal in the Church of All Gods in Arelium is very useful
+
+--
+
+Alorn tells you 'u can id item at any weaponsmith/armorsmith at any pcity/city'
+
+--
+
+NPCs appear to have some ability to chase down one's character, at least in areas not in the
+overworld
+
+--
+
+Hair the Helper (newbie): you can sacrifice items with some worth at your race shrine for some effect
+
+--
+
+broker command interfaces with player sales
+
+--
+
+[04:32]:Khwarizmi [newbie]: What effect does kiss of death really have?
+[04:33]:Mancomb [newbie]: Some extra damage, small heal if monster killed during the kiss effect
+[04:33]:Khwarizmi [newbie]: Neat
+
+--
+
+On when the skill "chaotic spawn" is any good:
+
+
+Maush [bat]: you need to build rep for it to get better (just kill monsters while spawned)
+
+--
+
+Tower guards in the Lands of Lore have teleport ability; beware
