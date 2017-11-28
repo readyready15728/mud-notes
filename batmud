@@ -134,7 +134,7 @@ The news group is mostly for rare items only, items that fetch millions of gold 
 
 --
 
-lite ghost [legible color] is useful
+lite ghost [legible color] is useful; as is lite wanted [stand-out color] and lite sales [stand-out color]
 
 --
 
@@ -582,9 +582,155 @@ broker command interfaces with player sales
 
 On when the skill "chaotic spawn" is any good:
 
-
 Maush [bat]: you need to build rep for it to get better (just kill monsters while spawned)
+
+For even more detail: http://taikajuoma.ovh/wiki/Chaotic_spawn
+
+There appears to be an XP penalty when in chaotic spawn form; also regeneration requires darkness
+(which of course can be achieved with the spell of the same name)
 
 --
 
 Tower guards in the Lands of Lore have teleport ability; beware
+
+--
+
+[21:16]:Khwarizmi [newbie]: When someone says "party for mage" in wanted does that mean they have a 
+party needing a mage or that they are a mage and want to join a party?
+[21:16]:Yggdrasil [newbie]: latter
+[21:17]:Khwarizmi [newbie]: OK
+[21:18]:Yggdrasil [newbie]: the former would be "mage for exp", "mage for grimoor" etc on wanted
+
+--
+
+Using offensive magic while fighting then healing after defeating the opponent (or after wimpy triggers) is more efficient by far
+
+--
+
+http://www.bat.org/community/library?str=173
+
+But beware! Not all weapons allow wielding in one hand (and therefore the ability to inflict harm as a priest)
+
+--
+
+"whereami link" looks like it might be very useful
+
+--
+
+"deposit change" deposits all denominations up to gold
+
+--
+
+Saunas can be used to expedite process of curing poison
+
+--
+
+Mellon collie can be cast out of battle
+
+--
+
+Miscellaneous items can often be sold at a general store
+
+--
+
+Kick, push etc. have to be used as skills to have any effect; the emotes don't have any
+
+--
+
+Furniture shops sell purses which can be used to store your rare coins; these are found in player cities
+
+--
+
+[00:16]:Khwarizmi [bat]: These overworld monsters are too much effort for the XP they give
+[00:16]:Eronk (bat): help skill consider, if you get it
+[00:16]:Voima (bat): yes they are, they haz too nasty specials
+[00:16]:Yggdrasil [bat]: some are sometimes very good exp actually
+[00:18]:Yggdrasil [bat]: mobs get killed, they will give less exp. mobs don't get killed, they give 
+good exp, are in "good tune"
+[00:18]:Moor [bat]: so your best experience will be in the Zonni Swamp
+[00:18]:Voima (bat): and even elephant is limber as hell, parries and ripostes like crazy
+[00:19]:Moor [bat]: has a trunk
+[00:19]:Moor [bat]: even its ears are bigger than you
+[00:19]:Khwarizmi [bat]: Didn't know I had to use consider
+
+--
+
+(00:20) Eronk tells you 'mainly consider is used to see the exp worth of mob'
+(00:20) Eronk tells you 'but you need higher skill for it'
+(00:20) Eronk tells you 'for example "You would get some experience for
+ Golem."'
+(00:21) Eronk tells you 'means it's not worth much compared to it's toughness'
+(00:21) Eronk tells you 'it is affected by how often you have kileld the monster
+ and how often other players have killed it'
+
+--
+
+Note to self: use crystite mine on next reinc; crystite isn't mined by player characters but one can kill mobs for it
+
+--
+
+Buy a sleeping bag at the Dortlewall general store; it weighs nothing and helps with regen (but
+one needs the camping skill to use it)
+
+--
+
+The equipment that is removed when you invoke chaotic spawn can be reworn / rewielded; additionally higher levels of chaotic spawn open up new ring slots for the player
+
+--
+
+Respawning towards end of chaotic spawn effect appears more efficient than two or more separate spawns; this is done by using chaotic spawn again
+
+--
+
+Progress to further tentacles in chaotic spawn mode is believed to scale with difficulty / XP of monsters slain (?) but it is still common to use low-level mobs to achieve the same effect
+
+--
+
+Guild advancement will take money from your bank account if possible as a convenience for when you
+run out of cash on hand
+
+--
+
+<channel> last <number> can retrieve up to 100 lines of history rather than the default 20
+
+--
+
+Use bug view to see status of bugs submitted
+
+--
+
+Bunny Heaven is a good place for gaining XP at lvl 40
+
+--
+
+It's never too early to start joining parties; "newbie <guild> for twiddle" is a good way to advertise at lower levels
+
+--
+
+[22:45]:Khwarizmi [newbie]: When other players want a mage for a party can it be substituted with a 
+priest?
+[22:46]:Malcom (newbie): sometimes, mostly not
+[22:46]:Khwarizmi [newbie]: People seldom seem to want priests for parties :/
+[22:46]:Malcom (newbie): mages get prots that priests don't
+[22:47]:Tept [newbie]: it can take some convincing.  If there's already another mage there's a 
+better shot cause of what Malcom said
+
+--
+
+[04:52]:Khwarizmi [newbie]: Does skill in chaotic spawn increase damage?
+[04:52]:Hair the Helper (newbie): a little.  you get more str, dex, siz which help, also tentacles 
+hit for a little bit
+[04:53]:Khwarizmi [newbie]: Good
+[04:53]:Hair the Helper (newbie): and once you get to 3 tentacles you get an extra ring slot while 
+spawned, and a 2nd extra one at 5 tentacles
+
+--
+
+[09:04]:Khwarizmi [newbie]: Any advantages in especially heavy weapons? Like tungsten
+[09:04]:Roak {newbie}: big smack
+[09:04]:Eronk (newbie): hit harder
+[09:05]:Moor [newbie]: Tungsten is especially good and gives electrical damage too
+
+--
+
+Damn armament works best on small weapons
