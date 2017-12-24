@@ -21,12 +21,11 @@ scan/x can be used to see opponent condition; consider (can't be shortened), to 
 
 --
 
-To flee from battle, simply walk out of the room, use wimpy now or set your wimpy before the battle and hope for the best.
+To flee from battle, simply walk out of the room, use wimpy now or set your wimpy before the battle and hope for the best. (Actually don't use wimpy.)
 
 --
 
-Handling multiple items of the same type can be done by first using eqnumber to identify the
-correct item and then just by adding the corresponding number to the wield or wear command. For example, if you have two rings, you can do eqnumber ring to see which ring is which, and then wear ring 2. As a rule of thumb the last gotten item is 1, and so on, but to order items in inventory you can use the juggle command.
+Handling multiple items of the same type can be done by first using eqnumber to identify the correct item and then just by adding the corresponding number to the wield or wear command. For example, if you have two rings, you can do eqnumber ring to see which ring is which, and then wear ring 2. As a rule of thumb the last gotten item is 1, and so on, but to order items in inventory you can use the juggle command.
 
 --
 
@@ -34,8 +33,7 @@ Once your enemy is dead, you can loot the remains. This is easiest done with get
 
 --
 
-'ansi items dull cyan' makes item descriptions much more legible; 'ansi roomshort light yellow' (or
-similar) marks the beginnings of room descriptions clearly which is also very helpful
+'ansi items dull cyan' makes item descriptions much more legible; 'ansi roomshort light yellow' (or similar) marks the beginnings of room descriptions clearly which is also very helpful
 
 --
 
@@ -344,25 +342,15 @@ In Arelium, armor and weapons need to be sold to the right store (normal or luxu
 Movement
 --------
 
-You move by typing in the direction, for example 'north' or 'enter'. You can
-shorten the basic directions, so 'n' works just like 'north' and 'ne' just
-like 'northeast'.
+You move by typing in the direction, for example 'north' or 'enter'. You can shorten the basic directions, so 'n' works just like 'north' and 'ne' just like 'northeast'. You can move several rooms with '# e'. The number # is limited to 20. For example, if you type '8 e' you'll try to move 8 times to east. At certain level you can use this to repeat other commands, too. (help parser)
 
-You can move several rooms with '# e'. The number # is limited to 20. For
-example, if you type '8 e' you'll try to move 8 times to east. At certain
-level you can use this to repeat other commands, too. (help parser)
-
-On the overworld map, and in some cities, you can use capital letters to
-move several rooms: 'SE' will move 20 rooms southeast, or until the terrain
-changes. If you are on a road, you can use the 'travel' command, which has
-its own nifty help file (help travel).
+On the overworld map, and in some cities, you can use capital letters to move several rooms: 'SE' will move 20 rooms southeast, or until the terrain changes. If you are on a road, you can use the 'travel' command, which has its own nifty help file (help travel).
 
 That's it, the basics of movement in batmud, happy adventuring.
 
 --
 
-Upon entering the bazaar, type "join" to join the merchant's guild. It is necessary to go up in
-the bazaar to access the guild even if you can't see that exit.
+Upon entering the bazaar, type "join" to join the merchant's guild. It is necessary to go up in the bazaar to access the guild even if you can't see that exit.
 
 --
 
@@ -431,8 +419,7 @@ start can be used to set starting location (for where you appear after reboot)
 
 --
 
-drop all coins before casting create money then get all coins afterwards to prevent rare mishaps
-that wipe out almost your entire holdings
+drop all coins before casting create money then get all coins afterwards to prevent rare mishaps that wipe out almost your entire holdings
 
 --
 
@@ -480,10 +467,7 @@ Reinc experience is regained by gaining more experience
 
 --
 
-The priest guildmaster is on the continent of Furnachia. Take the ferry there from Laenor and go south out of Rilynt'tar. He is said to be wandering in the wastelands somewhere to the northwest of
-the bridge over lava south of Rilynt'tar. Complicating things, there are two such bridges. However,
-when someone showed me the way, he was near the western of the two bridges. Additionally, he was
-marked as an "m" for me.
+The priest guildmaster is on the continent of Furnachia. Take the ferry there from Laenor and go south out of Rilynt'tar. He is said to be wandering in the wastelands somewhere to the northwest of the bridge over lava south of Rilynt'tar. Complicating things, there are two such bridges. However, when someone showed me the way, he was near the western of the two bridges. Additionally, he was marked as an "m" for me.
 
 --
 
@@ -548,14 +532,11 @@ When you die, Death carries you to Hell (or Heaven, if you're good). In BatMUD d
 
 --
 
-I've been told that energy drain and mana drain are for use against other players and are not
-very useful, if at all
+I've been told that energy drain and mana drain are for use against other players and are not very useful, if at all
 
 --
 
-Arelium has pretty good XP opportunities if you're in the 30s levels and also has a number of
-good-aligned mobs to maintain an evil alignment; this is also true of orphans and nuns in the
-orphanage :p
+Arelium has pretty good XP opportunities if you're in the 30s levels and also has a number of good-aligned mobs to maintain an evil alignment; this is also true of orphans and nuns in the orphanage :p
 
 --
 
@@ -592,8 +573,7 @@ Maush [bat]: you need to build rep for it to get better (just kill monsters whil
 
 For even more detail: http://taikajuoma.ovh/wiki/Chaotic_spawn
 
-There appears to be an XP penalty when in chaotic spawn form; also regeneration requires darkness
-(which of course can be achieved with the spell of the same name)
+There appears to be an XP penalty when in chaotic spawn form; also regeneration requires darkness (which of course can be achieved with the spell of the same name)
 
 --
 
@@ -670,23 +650,15 @@ use consider at mob
 (00:20) Eronk tells you 'for example "You would get some experience for
  Golem."'
 (00:21) Eronk tells you 'means it's not worth much compared to it's toughness'
-(00:21) Eronk tells you 'it is affected by how often you have kileld the monster
- and how often other players have killed it'
+(00:21) Eronk tells you 'it is affected by how often you have kileld the monster and how often other players have killed it'
 
 --
 
-(19:51) Pirutar tells you 'the more you or other people kill same mob the worse
- tune it will be'
+(19:51) Pirutar tells you 'the more you or other people kill same mob the worse tune it will be'
 (19:51) Pirutar tells you 'thats why you need to rotate places where you exp'
 (19:51) Pirutar tells you 'use consider at mob, it will say what tune its in'
-(19:52) Pirutar tells you 'later on you learn how much exp mobs you regularly kill
- gives like if you do mobs that normally give 5000k exp and then one day you go
- and see its only 1000, you know from that already that its in bad tune and
- maybe rest of the area too'
-(19:53) Pirutar tells you 'outerworld mobs generally are bad exp, should do exp
- inside areas and vary them too so dont do same area too often, for newbie tune
- isnt that hard so maybe can do one area twice per boot if have long time
- between going there like 6h +'
+(19:52) Pirutar tells you 'later on you learn how much exp mobs you regularly kill gives like if you do mobs that normally give 5000k exp and then one day you go and see its only 1000, you know from that already that its in bad tune and maybe rest of the area too'
+(19:53) Pirutar tells you 'outerworld mobs generally are bad exp, should do exp inside areas and vary them too so dont do same area too often, for newbie tune isnt that hard so maybe can do one area twice per boot if have long time between going there like 6h +'
 
 --
 
@@ -697,16 +669,10 @@ use consider at mob
 
 --
 
-(19:57) Pirutar tells you 'unfortunately on top of personal tune theres global tune
- too'
-(19:57) Pirutar tells you 'so even if you dont fuck up tune someone else might do
- it for you =)'
-(19:57) Pirutar tells you 'oh coffee forest supposedly really nice newish newbie
- area on luce but im too big so i dont know what size those are'
-(19:58) Pirutar tells you 'yep its especially bad if killing repops (or those clone
- mobs), theres like some 1 hour rule if you rekill mob within hour of last time
- you or someone else did it it will have big negative effect on tune then'
-Ok.
+(19:57) Pirutar tells you 'unfortunately on top of personal tune theres global tune too'
+(19:57) Pirutar tells you 'so even if you dont fuck up tune someone else might do it for you =)'
+(19:57) Pirutar tells you 'oh coffee forest supposedly really nice newish newbie area on luce but im too big so i dont know what size those are'
+(19:58) Pirutar tells you 'yep its especially bad if killing repops (or those clone mobs), theres like some 1 hour rule if you rekill mob within hour of last time you or someone else did it it will have big negative effect on tune then'
 
 --
 
@@ -752,22 +718,18 @@ It's never too early to start joining parties; "newbie <guild> for twiddle" is a
 
 --
 
-[22:45]:Khwarizmi [newbie]: When other players want a mage for a party can it be substituted with a 
-priest?
+[22:45]:Khwarizmi [newbie]: When other players want a mage for a party can it be substituted with a priest?
 [22:46]:Malcom (newbie): sometimes, mostly not
 [22:46]:Khwarizmi [newbie]: People seldom seem to want priests for parties :/
 [22:46]:Malcom (newbie): mages get prots that priests don't
-[22:47]:Tept [newbie]: it can take some convincing.  If there's already another mage there's a 
-better shot cause of what Malcom said
+[22:47]:Tept [newbie]: it can take some convincing.  If there's already another mage there's a better shot cause of what Malcom said
 
 --
 
 [04:52]:Khwarizmi [newbie]: Does skill in chaotic spawn increase damage?
-[04:52]:Hair the Helper (newbie): a little.  you get more str, dex, siz which help, also tentacles 
-hit for a little bit
+[04:52]:Hair the Helper (newbie): a little.  you get more str, dex, siz which help, also tentacles hit for a little bit
 [04:53]:Khwarizmi [newbie]: Good
-[04:53]:Hair the Helper (newbie): and once you get to 3 tentacles you get an extra ring slot while 
-spawned, and a 2nd extra one at 5 tentacles
+[04:53]:Hair the Helper (newbie): and once you get to 3 tentacles you get an extra ring slot while spawned, and a 2nd extra one at 5 tentacles
 
 --
 
@@ -812,39 +774,29 @@ Small Meadow in Laenor has deer that fucking GANG UP ON YOU
 
 --
 
-[13:36]:Khwarizmi [bat]: If I want to join lots of parties in my next reinc as a mage, what's my 
-battle plan?
+[13:36]:Khwarizmi [bat]: If I want to join lots of parties in my next reinc as a mage, what's my battle plan?
 [13:36]:Eschaton [bat]: make lots of exp, mages need it :)
 [13:38]:Eschaton [bat]: and to make your spells cheap you'll be needing reagents (which cost cash)
 [13:39]:Khwarizmi [bat]: I was farming gold in Lorenchia for a while
-[13:41]:Anadir (bat): generally speaking, mage may not be the best newbie guild. you need a lot of 
-exp to make them work decently.
-[13:41]:Eschaton [bat]: also, riftwalkers could be a nice addition which give you an option to solo 
-some
+[13:41]:Anadir (bat): generally speaking, mage may not be the best newbie guild. you need a lot of exp to make them work decently.
+[13:41]:Eschaton [bat]: also, riftwalkers could be a nice addition which give you an option to solo some
 [13:41]:Khwarizmi [bat]: I'm talking about a reinc
 [13:41]:Valdi [bat]: Riftwalker is a pretty easy start I think
 [13:41]:Anadir (bat): riftwalkers are.. a different case.
 [13:42]:Eschaton [bat]: before you reinc, test it out with the reincsim at eq.batmudder.com
 [13:42]:Khwarizmi [bat]: Cool
-[13:43]:Anadir (bat): I wouldn't expect too much before you can take mage+inner circle + 3 type 
-guilds and actually study the spells. But that's just me, I'm sure people have done one type mages 
-and somehow made it work.
-[13:44]:Voi (bat): say riftwalker requires inner_cirle aka conjurers, the entitys are very shitty at 
-everything for very long time
+[13:43]:Anadir (bat): I wouldn't expect too much before you can take mage+inner circle + 3 type guilds and actually study the spells. But that's just me, I'm sure people have done one type mages and somehow made it work.
+[13:44]:Voi (bat): say riftwalker requires inner_cirle aka conjurers, the entitys are very shitty at everything for very long time
 [13:45]:Theramon (bat): but very powerful once youve given it time ;)
 [13:45]:Eschaton [bat]: and a lot of fun in my opinion :)
 [13:45]:Voi (bat): from riftwalker guild, you get shitty blast, shitty fabs, and rest are crap too...
 [13:45]:Theramon (bat): +1
 [13:45]:Theramon (bat): I love riftwalker
 [13:46]:Eschaton [bat]: i love you too
-[13:46]:Anadir (bat): I'm not sure I'd call pure riftwalkers mages though. I guess it's a nice 
-newbie caster guild with ridiculous amounts of potential for growth for 15 level guild.
-[13:47]:Voi (bat): and entitys are quite bad to handle, atleast they fixed some annoyance but still 
-a lot to be tweaked... they are decent at under 30lvl and above 80lvl but between wouldnt play at 
-all
+[13:46]:Anadir (bat): I'm not sure I'd call pure riftwalkers mages though. I guess it's a nice newbie caster guild with ridiculous amounts of potential for growth for 15 level guild.
+[13:47]:Voi (bat): and entitys are quite bad to handle, atleast they fixed some annoyance but still a lot to be tweaked... they are decent at under 30lvl and above 80lvl but between wouldnt play at all
 [13:48]:Theramon (bat): play riftwalker and become baddest ass (badder than Blaykes BADASS(tm)ness(
-[13:49]:Voi (bat): there are a lot better guilds to play between 30-80lvl that work nicely, with 
-power word kill monster
+[13:49]:Voi (bat): there are a lot better guilds to play between 30-80lvl that work nicely, with power word kill monster
 [13:49]:Kohothegreat {bat}: i agree, join rangers
 [13:50]:Voi (bat): yes rangers even beats rifties, and all mounted guilds
 [13:50]:Sarma (bat): rangers are awesome
@@ -933,8 +885,7 @@ especially at lower levels
 [14:07]:Khwarizmi [newbie]: How good is crystite equipment really?
 [14:08]:Mancomb [newbie]: It's actually pretty decent for lowbies!
 [14:08]:Khwarizmi [newbie]: Worth saving up for that psionic axe?
-[14:08]:Mancomb [newbie]: Wouldn't farm the 20k-ish items, but the ones under 3k or so are well 
-worth the time spent imo
+[14:08]:Mancomb [newbie]: Wouldn't farm the 20k-ish items, but the ones under 3k or so are well worth the time spent imo
 [14:08]:Khwarizmi [newbie]: Yeah thought so
 
 --
@@ -945,15 +896,7 @@ Skill duration: random.
 Type of skill : neutral skill.
 Affecting stats: Str/Dex.
 It uses no endurance points.
-While most of the art of combat leans towards the 
-offensive side, a portion of this art leans also in the
-defensive direction. If one has a weapon in hand, even
-better if he has a shield, he can use these to help
-deflect blows aimed at himself. The best way to live
-to fight another day, is not to die. Of course, if one
-is spending time defending himself, he may not attack with
-the same effectiveness as he would if he was not holding
-himself back in order to defend himself.
+While most of the art of combat leans towards the offensive side, a portion of this art leans also in the defensive direction. If one has a weapon in hand, even better if he has a shield, he can use these to help deflect blows aimed at himself. The best way to live to fight another day, is not to die. Of course, if one is spending time defending himself, he may not attack with the same effectiveness as he would if he was not holding himself back in order to defend himself.
 
 --
 
@@ -970,8 +913,7 @@ The Reaver in the town on level 2 of the Crystite Mine appears to have a fairly 
 [15:06]:Eronk (newbie): very, if you ask Tiktok
 [15:07]:Eronk (newbie): I never trained it personally
 [15:07]:Mancomb [newbie]: Herbal remedies are fairly nice? And you can also sell some of the flowers
-[15:08]:Eronk (newbie): to my understanding, herbal remedies aren't worth it if you're collecting 
-them from the overworld
+[15:08]:Eronk (newbie): to my understanding, herbal remedies aren't worth it if you're collecting them from the overworld
 [15:08]:Eronk (newbie): could just spend that time regenning regularly
 [15:08]:Mancomb [newbie]: Probaly more efficient
 [15:08]:Eronk (newbie): if you have a greenhouse, then it might be different
@@ -983,15 +925,13 @@ Outdoors Supply Co. in Ranger guild has some useful stuff
 --
 
 [15:17]:Khwarizmi [newbie]: How exactly does pathfinding work?
-[15:19]:Eronk (newbie): you memorize a location with location memory, then you use pathfinding at 
-the location and you move there
+[15:19]:Eronk (newbie): you memorize a location with location memory, then you use pathfinding at the location and you move there
 [15:19]:Khwarizmi [newbie]: Ohhh
 [15:20]:Eronk (newbie): it uses a bunch of ep so it's not MEGA useful
 [15:20]:Khwarizmi [newbie]: Doesn't fire / camping recuperate EP?
 [15:20]:Eronk (newbie): yes
 [15:20]:Eronk (newbie): some people do use the pathfinding so its not completely useless
-[15:21]:Eronk (newbie): also if I remember correctly you had to memorize a overworld, non-scenic, 
-location for it to work
+[15:21]:Eronk (newbie): also if I remember correctly you had to memorize a overworld, non-scenic, location for it to work
 
 --
 
@@ -1035,8 +975,7 @@ Parry settings are not saved over reboots
 [19:38]:Khwarizmi [newbie]: How long are seasons in BatMUD?
 [19:39]:Lyriikka (newbie): https://tnsp.org/~ccr/bat/time.html [ http://www.bat.org/u/RPq ]
 [19:39]:Mancomb [newbie]: https://tnsp.org/~ccr/bat/time.html [ http://www.bat.org/u/RPq ]
-[19:39]:Hair the Helper (newbie): it varies on the continent you are on. https://tnsp.
-org/~ccr/bat/time.html [ http://www.bat.org/u/RPq ]
+[19:39]:Hair the Helper (newbie): it varies on the continent you are on. https://tnsp.org/~ccr/bat/time.html [ http://www.bat.org/u/RPq ]
 
 --
 
@@ -1044,8 +983,7 @@ Fraggle Village is a good place for mid-40s, as long as you don't attack the run
 
 --
 
-New body (or just body) has the lowest XP penalty but the new body may take hours to become fully
-functional
+New body (or just body) has the lowest XP penalty but the new body may take hours to become fully functional
 
 --
 
@@ -1057,9 +995,7 @@ Metal rods may sell as armor
 
 --
 
-[07:45]:Melco [newbie]: I hiope you can help me with a question regarding spellcasting. When I start 
-a spell, but want to cancel it before it finishes, is there any way to do so save by moving from the 
-room I am in?
+[07:45]:Melco [newbie]: I hiope you can help me with a question regarding spellcasting. When I start a spell, but want to cancel it before it finishes, is there any way to do so save by moving from the room I am in?
 [07:45]:Deathwish [newbie]: type zz
 [07:45]:Melco [newbie]: thanks all
 [07:45]:Khwarizmi [newbie]: That's even better
@@ -1091,14 +1027,11 @@ Use slots to see where you can still put equipment
 
 --
 
-[17:28]:Khwarizmi [newbie]: Will I get regen gains from fire building if I keep adding more XP or 
-should I just focus on mastery of fire building? Same question for camping
-[17:29]:Grushnak [newbie]: My understanding is that both contribute. I'm not sure which contributes 
-more
+[17:28]:Khwarizmi [newbie]: Will I get regen gains from fire building if I keep adding more XP or should I just focus on mastery of fire building? Same question for camping
+[17:29]:Grushnak [newbie]: My understanding is that both contribute. I'm not sure which contributes more
 [17:29]:Khwarizmi [newbie]: Ah OK
 [17:29]:Nepos (newbie): Camping scales to %, not sure about fire building
-[17:30]:Eronk (newbie): I'm under assumption mastery of fire building gives a static buff to fire 
-with the chance of skill%
+[17:30]:Eronk (newbie): I'm under assumption mastery of fire building gives a static buff to fire with the chance of skill%
 [17:30]:Eronk (newbie): +5 or so
 
 --
@@ -1139,9 +1072,7 @@ My chest combo is a familiar number, something personal about me ;)
 
 --
 
-The sailor chest saves your stuff over the reboots. If the item can't be saved
-it pops out from the sailor chest. If the room does not support saving, a
-warning message is given.
+The sailor chest saves your stuff over the reboots. If the item can't be saved it pops out from the sailor chest. If the room does not support saving, a warning message is given.
 The sailor chest is locked with a 3 dial combination lock.
 Supported commands:
 
@@ -1207,11 +1138,8 @@ Visit Pleasantville on next reinc
 
 --
 
-(13:29) Dhartnan tells you 'The minotaur was part of the church secret. You can
- sacrifice the body of the minotaur at the altar found in the secret passage in
- the churhc basement'
-(13:30) Dhartnan tells you 'usually the minotaur stays in the secret passage but
- now it was set free by someone'
+(13:29) Dhartnan tells you 'The minotaur was part of the church secret. You can sacrifice the body of the minotaur at the altar found in the secret passage in the churhc basement'
+(13:30) Dhartnan tells you 'usually the minotaur stays in the secret passage but now it was set free by someone'
 
 --
 
@@ -1220,8 +1148,7 @@ At level 46 as Minotaur Ranger, black bunnies in Bunny Valley are incredibly goo
 --
 
 [14:09]:Khwarizmi [newbie]: What's the advantage of raise as opposed to ress? Is there any
-[14:10]:Rhoads the Helper [newbie]: you get your stats back instantly after a raise, have to wait a 
-little longer for ress
+[14:10]:Rhoads the Helper [newbie]: you get your stats back instantly after a raise, have to wait a little longer for ress
 [14:10]:Rhoads the Helper [newbie]: ress is better than raise when it comes to exp
 
 --
@@ -1254,8 +1181,7 @@ Don't use single quotes when use plant lore (who knows why)
 
 --
 
-[23:36]:Adus [newbie]: any suggestion on non-dodging enemies to complete ranger push quest (I need 
-40 succesful pushes)
+[23:36]:Adus [newbie]: any suggestion on non-dodging enemies to complete ranger push quest (I need 40 succesful pushes)
 [23:36]:Adus [newbie]: in a row
 [23:36]:Pharm (newbie): generally I have small mobs in newbiemountains for that task
 
@@ -1328,8 +1254,7 @@ Burning Village has good looting opportunities so close to Calythien
 --
 
 [00:22]:Kelzarath [newbie]: where can I store items?
-[00:23]:Rabo [newbie]: usually, you carry stuff around with you. You can get a equipment frame to 
-carry stuff on your back at reduced weight
+[00:23]:Rabo [newbie]: usually, you carry stuff around with you. You can get a equipment frame to carry stuff on your back at reduced weight
 
 --
 
@@ -1338,9 +1263,7 @@ Minotaurs only need to wear the gloves to harvest honey and wax from beehives! Y
 --
 
 (00:50) Endure tells you 'arelium grocery store buys the honey'
-(00:50) Endure tells you 'wax is used in some merchant, alchemy and especially nun
- candmaking - if you can't dip into those skills the unrefined wax is mainly
- useless'
+(00:50) Endure tells you 'wax is used in some merchant, alchemy and especially nun candmaking - if you can't dip into those skills the unrefined wax is mainly useless'
 
 --
 
@@ -1355,25 +1278,20 @@ Honey can be consumed for +str
 On how long it takes honeycombs to fill up:
 
 (02:00) Endure tells you 'depends on the condition'
-(02:01) Endure tells you 'about 4-5 hours for full condition ones to harvest, and
- increasing amount of time from there on'
+(02:01) Endure tells you 'about 4-5 hours for full condition ones to harvest, and increasing amount of time from there on'
 
 --
 
-[02:10]:Khwarizmi [newbie]: If I reinc (not now) and want to join Riftwalkers, what's the best way 
-to access the guild?
+[02:10]:Khwarizmi [newbie]: If I reinc (not now) and want to join Riftwalkers, what's the best way to access the guild?
 [02:12]:Roak {newbie}: with difficulty.
-[02:12]:Endure the Helper [newbie]: race that can fly or swim would be optimal for your first time 
-since you likely have to tread a bit of water
+[02:12]:Endure the Helper [newbie]: race that can fly or swim would be optimal for your first time since you likely have to tread a bit of water
 [02:12]:Khwarizmi [newbie]: DDDDD:
 [02:12]:Roak {newbie}: entrance to guild is floating around lake northwest of shadowkeep on roth
 [02:12]:Endure the Helper [newbie]: reading the maps and understanding where the guild actually 
 might be would be useful
-[02:12]:Endure the Helper [newbie]: I've helped people find it and they were completely off the 
-course
+[02:12]:Endure the Helper [newbie]: I've helped people find it and they were completely off the course
 [02:13]:Roak {newbie}: usually other rifters are helpful in finding it.
-[02:13]:Khwarizmi [newbie]: Would it make more sense to join mage guild first and progress until I 
-get water walking? (Assuming mages have water walking)
+[02:13]:Khwarizmi [newbie]: Would it make more sense to join mage guild first and progress until I get water walking? (Assuming mages have water walking)
 [02:13]:Roak {newbie}: i'd do rifters first. just get it done. you'll find it.
 [02:14]:Khwarizmi [newbie]: OK
 
@@ -1430,8 +1348,7 @@ Acid is apparently the first specialty an aspiring Mage should join
 [06:19]:Malcom (newbie): mana (magic) is good too
 [06:19]:Bee [newbie]: What's lockbiter though
 [06:20]:Malcom (newbie): help spell lock biter
-[06:20]:Isam (newbie): psi also is nice for meditation and psionic shield makes you survive mob 
-blasts a bit easier.
+[06:20]:Isam (newbie): psi also is nice for meditation and psionic shield makes you survive mob blasts a bit easier.
 
 --
 
@@ -1537,8 +1454,7 @@ Alcohol tolerance is not an important skill
 
 After asking how to preserve parry settings over reboot:
 
-[15:16]:Bulain [newbie]: Khwarizmi Maybe set a trigger based on the welcome message when you login 
-to set parry?
+[15:16]:Bulain [newbie]: Khwarizmi Maybe set a trigger based on the welcome message when you login to set parry?
 [15:16]:Khwarizmi [newbie]: That's not a bad idea
 
 --
