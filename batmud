@@ -1233,7 +1233,7 @@ The High Priest of Rasha in Ancient Tower is *very* dangerous
 
 --
 
-Tower of Silence magic users also appear to be *very* dangerous
+Valley of Silence magic users also appear to be *very* dangerous
 
 --
 
@@ -1444,7 +1444,7 @@ The dark skeleton in Kath'vael Forest, while beatable, casts a bunch of annoying
 
 --
 
-The risk of fighting snow devils is really not worth it for now
+The risk of fighting snow devils is really not worth it for now (POWERFUL magic)
 
 --
 
@@ -1522,3 +1522,307 @@ There are a number of very useful navtrees around Arelium
 --
 
 wimpy should always be off
+
+--
+
+At Efiilas Advance Camp:
+
+[03:02]:Malcom (party): ask elf about hard work
+[03:02]:Malcom (party): then
+[03:02]:Malcom (party): quote 'look at note' party report
+
+--
+
+Parry shouldn't be on in general, only in deftank situations or similar :(
+
+--
+
+I don't know yet whether it's possible to riposte with no points in parry but I can at least check the summary stats
+
+--
+
+p is short for party
+
+--
+
+Dexterity doesn't appear to have anything to do with price of items produced through leather crafting
+
+--
+
+Bank records do not show deposits from other players who paid you but the discrepancy will be seen in inventory
+
+--
+
+If you think you might get poisoned and don't have a cure close at hand, just don't do it
+
+--
+
+The enemies at the far north end of Plakhstan are very dangerous
+
+--
+
+Don't go into the tunnel in Perilous Forest and also beware the aggressive mobs
+
+--
+
+[07:33]:Khwarizmi [newbie]: When should I get surgery again?
+[07:33]:Khwarizmi [newbie]: Below 90 or below 80?
+[07:33]:Nyriori the Helper [newbie]: I never saw it be a problem until like... below 50... but...
+[07:33]:Nyriori the Helper [newbie]: get scars removed more regularly
+
+--
+
+High Priest of the Red Demon Cult in Kath'vael Forest inflicts scars
+
+--
+
+[07:48]:Khwarizmi [newbie]: What are the unique issues of scars
+[07:49]:Nyriori the Helper [newbie]: a tarmalen should really be answering this, but, they increase 
+the chance of ress fumble, and, I believe that is a separate issue to simply having low cha
+[07:49]:Nyriori the Helper [newbie]: Let me be clear: you do NOT want a ress fumble.
+[07:50]:Khwarizmi [newbie]: What happens after a ress fumble
+[07:51]:Nyriori the Helper [newbie]: As far as I know, you can lose stats that can't be recovered 
+until you reinc.  I don't believe a potion of int restoring or such fixes that, but I could be wrong
+[07:51]:Nyriori the Helper [newbie]: I also seem to recall there are other issues but... I'm not 
+comfortable commenting on that, I am just not sure
+[07:52]:Nyriori the Helper [newbie]: also, sometimes ress fumbles do nothing.  It is not certain.  
+Extra aging is also a thing.
+[07:53]:Malcom (newbie):  fumbled ress/rais/body is often cause by low cha and/ or scars
+[07:53]:Malcom (newbie): fumbles can result in stat loss, level loss, loss of exp, probably other 
+bad stuff i'm forgetting
+[07:53]:Glamdring (newbie): and level difference between caster and ressable
+[07:54]:Khwarizmi [newbie]: DDDDD:
+[07:54]:Malcom (newbie): stats and exp to both parties involved i think.  levels to castee
+[07:54]:Nyriori the Helper [newbie]: it is the fate worse than death in batmud.
+
+--
+
+Scars can be seen by "look me"
+
+--
+
+Stay away from Horsehead Mountain for now
+
+--
+
+Donaru is a great place for XP
+
+--
+
+Don't attack the shopkeeper in Arelium for now
+
+--
+
+To join the Barbarian guild after having a lot of experience, go to Digga's, then Raven.
+
+"In Raven jail, kill jailkeeper to get key.  Unlock cell, open cell, enter cell. This frees Groo, the son of the Barbarian Chieftain.  Groo will give you the Barbarian Ring of Friendship in thanks for his freedom."
+
+--
+
+After getting the ring, go south down the path and do "search bushes" at A Turn in the Path. One can enter. Then "show ring". Then find Bankha and "join".
+
+--
+
+"barbarian binfo <your username>" to see your own Barbarian reputation
+
+--
+
+Corpses have to be totally immolated to count towards Barbarian reputation
+
+--
+
+If your Barbarian reputation appears full then it's capped; cap is raised (+300) with each level and goes away entirely at guild level 20
+
+--
+
+(18:28) Mancomb tells you 'Just to give you an idea - I've been in barb guild for a month now and gained 2350 rep. You need 50 000 to be considered a 'repbarb' who can stun reliably'
+
+--
+
+[15:37]:Khwarizmi [newbie]: How do I know whether a piece of a map is worth anything
+[15:38]:Stalgrad (newbie): at the bottom it'll say something like 'shows the location of a possible 
+site' if it's good, or ' shows the location of an already looted site' if it's useless
+[15:38]:Khwarizmi [newbie]: It is a piece of leather that has some sort of a map drawn on it. The 
+label can be set with 'label' command. This item is in good condition. It looks light weight.
+[15:38]:Stalgrad (newbie): read map?
+[15:39]:Khwarizmi [newbie]: Ah
+
+--
+
+Apparently maps of value run from 20k-50k typically. Maybe try a minimum bid. (40k seems fairly common?)
+
+--
+
+Shadowkeep General Store owner does identification (to some extent at least)
+
+--
+
+Hell's Dojo is good for exp
+
+--
+
+(20:25) Savu tells you 'I always set [Parry] to either 0 or 51 (the opposite maximums). At zero, parry is not on at all and my offensive power is at maximum. At 51, I am on defensive mode and my defenses are at max (I parry, and with riposte skill trained, some of the parries result in a low power counterattack which compensates the loss of damage due to parrying a bit). Of course it's best to try it yourself, but I've found this strategy working the best for me.'
+(20:28) Savu tells you 'For example if I am in a situation where I am getting a lot of damage from hits, parry can help you get that critical attack skill in just in time before having to bail out. Or if there are multiple opponents, I set my target at one opponent at a time with my parry at 51 and use skill only at that one target. That way my offensive power is focused on one single target at a time and my parry protects me a bit from the others while I take out one by one.'
+
+--
+
+[20:37]:Khwarizmi [newbie]: Remind me if rep gains from burning corpses are dependent on difficulty 
+of mob?
+[20:37]:Sumendar [newbie]: yes
+
+--
+
+ra set get all from corpse; get essence; barbburn
+
+--
+
+Keep torches to avoid tossing them
+
+--
+
+[21:33]:Khwarizmi [newbie]: What exactly do the #, : and . characters signify in the Barbarian rep 
+bar?
+[21:34]:Marrow (newbie): . = 1 , : = 2
+[21:34]:Khwarizmi [newbie]: and the #?
+[21:34]:Marrow (newbie): # = 10
+[21:34]:Khwarizmi [newbie]: Ah
+[21:34]:Marrow (newbie): no wait
+[21:34]:Marrow (newbie): : = 10
+[21:34]:Marrow (newbie): # = 100
+[21:34]:Marrow (newbie): @ = 1000
+[21:35]:Marrow (newbie): X = 10000
+[21:35]:Hair the Helper (newbie): . is 1 : is 10 # is 100 @ is 1000 X is 10000
+
+--
+
+[21:42]:Khwarizmi [newbie]: Can I make it to 50,000 rep with looting and burning alone?
+[21:43]:Pharm (newbie): prolly, but that take TIME
+[21:43]:Khwarizmi [newbie]: DDDDD:
+[21:44]:Loerhei [newbie]: whats the other way barbs gain their rep?
+[21:44]:Ergor (newbie): but can be done
+
+--
+
+More Barbarian info: http://www.anvianet.fi/moonlord/batmud/barbarian.html
+
+--
+
+Set starting location outside Village of Shrea? (For beehive access)
+
+--
+
+Minotaur is apparently also a good Tzarakk/Priest race
+
+--
+
+I don't know what destroyed my highsteel axe but if I use logs I might know in the future :/
+
+--
+
+[19:17]:Khwarizmi [newbie]: Can I sell a very large emerald disc to another player?
+[19:17]:Eronk (newbie): yes
+[19:18]:Khwarizmi [newbie]: Cool
+[19:18]:Khwarizmi [newbie]: What do they usually go for?
+[19:18]:Eronk (newbie): I didnt exactly mean there will be someone to buy it, but it's possible
+[19:18]:Mancomb [newbie]: try broker and batwiki sales search to give you an idea
+
+--
+
+Skill in kick and push appears relevant to bladed fury!
+
+--
+
+Arelium has a ring shop that sells rings of infravision for races without it
+
+--
+
+Main merchant cube locations appear to be Esiris, Arelium, Southern Crossing and Dortlewall
+
+--
+
+Coffee Forest is a good midbie area
+
+--
+
+Look at beehive to see whether honeycombs are full
+
+--
+
+Don't sell too much honey at once; you'll glut the market
+
+--
+
+Running to Vlad and asking for remove poison on wanted may work
+
+--
+
+[21:15]:Khwarizmi [newbie]: Do I have a better chance of finding barberries with higher eye of 
+loraen?
+
+(No, but I'll see further apparently)
+
+--
+
+Do lots of level quests on next reinc
+
+--
+
+Also do Arelium area quests
+
+--
+
+Don't use salves without identifying them
+
+--
+
+In the Butterfly Farm region, give butterfly wing extracts to Juniper
+
+--
+
+House fees can be paid in the government building in Arelium
+
+--
+
+[04:01]:Samadate [newbie]: when i use hunting and cook or eat outright the animal, i get a ? in 
+affects, does this ever become a known effect?
+[04:01]:Nyriori the Helper [newbie]: it does for me, not sure what the deal is
+[04:02]:Hair the Helper (newbie): might be based on your 'cooking' skill percentage.  You can go 
+down the rabbit hole that is cooking by finding Teapot in the city of Arelium and give him some food 
+item
+[04:02]:Nyriori the Helper [newbie]: it really is a rabbit hole
+[04:03]:Rabo [newbie]: foods can give different effects like bonuses, if thats what your asking
+[04:04]:Samadate [newbie]: so learn to cook, and understand the magic behind the gourmet.
+[04:05]:Nyriori the Helper [newbie]: you can't.  At least not for the basic stuff.  It makes no 
+sense.
+[04:05]:Rabo [newbie]: hmm wasnt suggesting that :)
+[04:05]:Hair the Helper (newbie): once you are proficient enough at cooking you can start learning 
+'master chef' where you really can make targetted foods for various stats
+[04:05]:Nyriori the Helper [newbie]: yesterday I sauteed a sauage, a piece of bread and a watermlon 
+push up and made a cooked squirrel.
+[04:05]:Nyriori the Helper [newbie]: I rest my case.
+
+--
+
+Beware of aggro mobs in Mountain Dwarves and heal outside the area
+
+--
+
+[16:14]:Khwarizmi [newbie]: If I wear a finger guard how can I look at an NPC named guard?
+[16:14]:Eschaton [newbie]: la guard on ground? dunno if that works
+[16:14]:Malos (newbie): it does
+
+--
+
+[20:38]:Moonglaze (bat): the rep carries on to next levels, just not available until the next level
+[20:38]:Hair (bat): you should set your sights on making barb elder instead, that way if you reinc 
+back to barb you don't lose any rep
+[20:38]:Khwarizmi [bat]: Oh neat
+
+--
+
+Ore can be processed in the Mirror Mine (gnome wing)
+
+--
+
+[11:31]:Khwarizmi [newbie]: How do you know when reboot is imminent?
+[11:31]:Nyriori the Helper [newbie]: tell damogran boot.
